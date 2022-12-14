@@ -1,0 +1,31 @@
+ <div class="shade-picker-dropdown hidden">
+                <div class="shade-picker-dropdown__colors-mask">
+                  <select id="js-shade-picker-dropdown--product-full" class="shade-picker-dropdown__colors no-js">
+                      " data-product='{"prodid":"PROD60284","sku":"SKU95930"}' data-color="#af3832">316 Devoted To Chili 柔雾小辣椒</option>
+                      " data-product='{"prodid":"PROD60284","sku":"SKU101508"}' data-color="#ba3a39">923 Stay Curious糖渍樱花</option>
+                      " data-product='{"prodid":"PROD60284","sku":"SKU101507"}' data-color="#ba0b08">922 Werk, Werk, Werk初恋苹果红</option>
+                      " data-product='{"prodid":"PROD60284","sku":"SKU95928"}' data-color="#c76864">314 Mull It Over 白桃奶茶色</option>
+                      " data-product='{"prodid":"PROD60284","sku":"SKU95915"}' data-color="#c13d4a">301 A Little Tamed  烟粉豆沙色</option>
+                      " data-product='{"prodid":"PROD60284","sku":"SKU101506"}' data-color="#bc554e">921 Sultry Move棕糖蜜桃</option>
+                      " data-product='{"prodid":"PROD60284","sku":"SKU95920"}' data-color="#b51e3f">306 Shocking Revelation 复古红莓</option>
+                      " data-product='{"prodid":"PROD60284","sku":"SKU95929"}' data-color="#cd0c27">315 Lasting Passion 糖霜草莓色</option>
+                      " data-product='{"prodid":"PROD60284","sku":"SKU95919"}' data-color="#933a50">305 Burning Love 梅子浆果色</option>
+                      " data-product='{"prodid":"PROD60284","sku":"SKU95917"}' data-color="#e02f05">303 Style Shocked! 胡萝卜汁色</option>
+                      " data-product='{"prodid":"PROD60284","sku":"SKU95922"}' data-color="#e43d45">308 Mandarin O 初恋西柚色</option>
+                      " data-product='{"prodid":"PROD60284","sku":"SKU101509"}' data-color="#d8716a">Reverence</option>
+                      " data-product='{"prodid":"PROD60284","sku":"SKU95926"}' data-color="#b26f54">312 Impulsive 巧克力裸棕</option>
+                      " data-product='{"prodid":"PROD60284","sku":"SKU101505"}' data-color="#cd3669">Velvet Punch</option>
+                      " data-product='{"prodid":"PROD60284","sku":"SKU95921"}' data-color="#fb236a">307 Fall In Love 丝绒芭比粉</option>
+                      " data-product='{"prodid":"PROD60284","sku":"SKU101503"}' data-color="#c78797">Ripened</option>
+                      " data-product='{"prodid":"PROD60284","sku":"SKU101504"}' data-color="#823b5b">P For Potent</option>
+                      " data-product='{"prodid":"PROD60284","sku":"SKU95918"}' data-color="#d87c89">304 Sultriness 珊瑚暖粉色</option>
+                      " data-product='{"prodid":"PROD60284","sku":"SKU95925"}' data-color="#eaa181">311 My Tweedy 肉桂土橘色</option>
+                      " data-product='{"prodid":"PROD60284","sku":"SKU95924"}' data-color="#d39387">310 Influentially It 焦糖裸橘色</option>
+                      " data-product='{"prodid":"PROD60284","sku":"SKU95916"}' data-color="#cc746a">302 Sweet, No Sugar 暖调杏粉色</option>
+                      " data-product='{"prodid":"PROD60284","sku":"SKU95923"}' data-color="#e8aa93">309 Best Of Me 清透米色</option>
+                      " data-product='{"prodid":"PROD60284","sku":"SKU101502"}' data-color="#f55f8c">Sexy, But Sweet</option>
+                      " data-product='{"prodid":"PROD60284","sku":"SKU95927"}' data-color="#f78c82">313 Scattered Petals 哑光肉粉色</option>
+                  </select>
+                </div>
+              </div>
+      

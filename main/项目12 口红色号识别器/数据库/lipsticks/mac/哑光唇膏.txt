@@ -1,0 +1,13 @@
+ <div class="shade-picker-dropdown hidden">
+                <div class="shade-picker-dropdown__colors-mask">
+                  <select id="js-shade-picker-dropdown--product-full" class="shade-picker-dropdown__colors no-js">
+                      " data-product='{"prodid":"PROD52593","sku":"SKU1136"}' data-color="#af0009">Ruby Woo ÎíÃæÕıºìÉ«</option>
+                      " data-product='{"prodid":"PROD52593","sku":"SKU63082"}' data-color="#dd3d31">Dangerous</option>
+                      " data-product='{"prodid":"PROD52593","sku":"SKU49838"}' data-color="#de0c56">All Fired Up</option>
+                      " data-product='{"prodid":"PROD52593","sku":"SKU49840"}' data-color="#bd433e">Runway Hit</option>
+                      " data-product='{"prodid":"PROD52593","sku":"SKU49836"}' data-color="#f61143">Relentlessly Red</option>
+                      " data-product='{"prodid":"PROD52593","sku":"SKU49839"}' data-color="#c21e7c">Flat Out Fabulous</option>
+                      " data-product='{"prodid":"PROD52593","sku":"SKU49841"}' data-color="#EF94A5">Steady Going</option>
+                  </select>
+                </div>
+              </div>

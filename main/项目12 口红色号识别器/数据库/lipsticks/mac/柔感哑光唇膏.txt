@@ -1,0 +1,53 @@
+
+              <div class="shade-picker-dropdown hidden">
+                <div class="shade-picker-dropdown__colors-mask">
+                  <select id="js-shade-picker-dropdown--product-full" class="shade-picker-dropdown__colors no-js">
+                      " data-product='{"prodid":"PROD310","sku":"SKU2266"}' data-color="#a71e0b">Chili Ğ¡À±½·</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU2270"}' data-color="#9B381E">Marrakesh ×ØºìÔàéÙ</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU2271"}' data-color="#b3181d">Russian Red ÆøÖÊ¸´¹Åºì</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU2280"}' data-color="#ed2600">Lady Danger Ñª³ÈÉ«</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU2267"}' data-color="#671b25">Diva ÒÌÂèÉ«</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU63081"}' data-color="#8e233c">D for Danger</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU72534"}' data-color="#e8181d">Red Rock</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU2273"}' data-color="#d7523d">So Chaud</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU72532"}' data-color="#fb3a3d">Mangrove</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU63076"}' data-color="#945246">Whirl</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU57019"}' data-color="#691b1c">Sin</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU2274"}' data-color="#ae6c5b">Taupe</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU2287"}' data-color="#d27a66">Velvet Teddy</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU63079"}' data-color="#f75753">Tropic Tonic Éºº÷éÙÉ«</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU2286"}' data-color="#c48075">Kinda Sexy</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU63072"}' data-color="#702f2b">Antique Velvet</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU2285"}' data-color="#b27d6d">Honeylove</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU51826"}' data-color="#74427f">Heroine</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU43137"}' data-color="#c35965">Mehr</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU43138"}' data-color="#af7a61">Yash</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU2282"}' data-color="#f15d73">Please Me</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU72120"}' data-color="#ff1986">Breathing Fire</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU72531"}' data-color="#d09191">Really Me</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU63071"}' data-color="#502340">Instigator</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU54093"}' data-color="#e2397a">Pink Pigeon</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU52677"}' data-color="#3B3154">Punk Couture</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU72545"}' data-color="#524d50">In The Spirit</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU43338"}' data-color="#e34493">Candy Yum-Yum</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU1133"}' data-color="#C17D70">Bronx</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU2283"}' data-color="#c67a8a">Pink Plaid</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU57020"}' data-color="#573e4e">Smoked Purple</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU72525"}' data-color="#e97ae5">Lavender Jade</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU63070"}' data-color="#201d4a">Matte Royal</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU63075"}' data-color="#905245">Persistence</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU63077"}' data-color="#ae7558">Naturally Transformed</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU63080"}' data-color="#b95c91">Men Love Mystery</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU63073"}' data-color="#835d52">Stone</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU63074"}' data-color="#8a2c24">Studded Kiss</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU72522"}' data-color="#ecc3c8">Lazy Lullaby</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU72524"}' data-color="#52413e">In My Fashion</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU72529"}' data-color="#84616a">Lightly Charred</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU72530"}' data-color="#876564">Deep Rooted</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU72536"}' data-color="#8ad8fe">Dreampot</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU72537"}' data-color="#b483c2">4Eva</option>
+                      " data-product='{"prodid":"PROD310","sku":"SKU72539"}' data-color="#f9f6f0">Frosting</option>
+                  </select>
+                </div>
+              </div>
+      

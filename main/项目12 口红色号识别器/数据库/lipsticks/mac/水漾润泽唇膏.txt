@@ -1,0 +1,32 @@
+
+              <div class="shade-picker-dropdown hidden">
+                <div class="shade-picker-dropdown__colors-mask">
+                  <select id="js-shade-picker-dropdown--product-full" class="shade-picker-dropdown__colors no-js">
+                      " data-product='{"prodid":"PROD52596","sku":"SKU2774"}' data-color="#b23532">Lady Bug 元气番茄红</option>
+                      " data-product='{"prodid":"PROD52596","sku":"SKU11013"}' data-color="#972e2e">Cockney 斩男水红色</option>
+                      " data-product='{"prodid":"PROD52596","sku":"SKU2776"}' data-color="#c76b68">See Sheer 水漾西柚色</option>
+                      " data-product='{"prodid":"PROD52596","sku":"SKU2768"}' data-color="#753633">Spice It Up!</option>
+                      " data-product='{"prodid":"PROD52596","sku":"SKU54099"}' data-color="#FA9696">Flamingo</option>
+                      " data-product='{"prodid":"PROD52596","sku":"SKU2781"}' data-color="#996353">Touch</option>
+                      " data-product='{"prodid":"PROD52596","sku":"SKU2789"}' data-color="#c97885">Giddy</option>
+                      " data-product='{"prodid":"PROD52596","sku":"SKU2788"}' data-color="#b88778">Jubilee</option>
+                      " data-product='{"prodid":"PROD52596","sku":"SKU2763"}' data-color="#b0607d">Plumful</option>
+                      " data-product='{"prodid":"PROD52596","sku":"SKU2782"}' data-color="#9f626c">Capricious</option>
+                      " data-product='{"prodid":"PROD52596","sku":"SKU11011"}' data-color="#c75e93">Milan Mode</option>
+                      " data-product='{"prodid":"PROD52596","sku":"SKU2773"}' data-color="#b4847d">Hug Me</option>
+                      " data-product='{"prodid":"PROD52596","sku":"SKU2766"}' data-color="#d2547a">Lustering</option>
+                      " data-product='{"prodid":"PROD52596","sku":"SKU11010"}' data-color="#cc9393">Patisserie</option>
+                      " data-product='{"prodid":"PROD52596","sku":"SKU2790"}' data-color="#d5afb2">Pretty Please</option>
+                      " data-product='{"prodid":"PROD52596","sku":"SKU2783"}' data-color="#aa5e83">Sweetie</option>
+                      " data-product='{"prodid":"PROD52596","sku":"SKU2765"}' data-color="#b17581">Syrup</option>
+                      " data-product='{"prodid":"PROD52596","sku":"SKU2764"}' data-color="#cd8394">Lovelorn</option>
+                      " data-product='{"prodid":"PROD52596","sku":"SKU2771"}' data-color="#aa8572">Fresh Brew</option>
+                      " data-product='{"prodid":"PROD52596","sku":"SKU2794"}' data-color="#c99797">Politely Pink</option>
+                      " data-product='{"prodid":"PROD52596","sku":"SKU2796"}' data-color="#b07b76">Midimauve</option>
+                      " data-product='{"prodid":"PROD52596","sku":"SKU39289"}' data-color="#e58680">Razzledazzler</option>
+                      " data-product='{"prodid":"PROD52596","sku":"SKU61273"}' data-color="#f3ab6a">Highlights</option>
+                      " data-product='{"prodid":"PROD52596","sku":"SKU72523"}' data-color="#fec74f">Gold XIXI</option>
+                  </select>
+                </div>
+              </div>
+      

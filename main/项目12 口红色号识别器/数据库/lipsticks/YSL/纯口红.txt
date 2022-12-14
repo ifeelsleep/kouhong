@@ -1,0 +1,33 @@
+﻿<span style="background: #b5152f;"alt="N°01 正红色 (HOT)">
+<span style="background: #C40031;"alt="N°93 牛血色">
+<span style="background: #b91b1c;"alt="N°13 正橘色 (HOT)">
+<span style="background: #c92877;"alt="N°07 雅紫纱蓉">
+<span style="background: #d85d71;"alt="N°9 豆沙紫">
+<span style="background: #c17583;"alt="N°09 梅子豆沙色">
+<span style="background: #ba464c;"alt="N°16 玫瑰红">
+<span style="background: #f55f73;"alt="N°17 西柚粉(HOT)">
+<span style="background: #c96e85;"alt="N°26 堇色流纱">
+<span style="background: #e8505c;"alt="N°52 星星色 (HOT)">
+<span style="background: #d81b23;"alt="N°56 暖金橘红">
+<span style="background: #981e31;"alt="N°72 玫瑰酒红">
+<span style="background: #cd0d1d;"alt="N°73 血橙色">
+<span style="background: #b12941;"alt="N°82 莓果红">
+<span style="background: #b34e55;"alt="N°84 玫瑰豆沙">
+<span style="background: #912442;"alt="N°88 梅红色">
+<span style="background: #9b5054;"alt="N°90 玫瑰茶棕">
+<span style="background: #af192a;"alt="N°91 橙红色">
+<span style="background: #b2484f;"alt="N°92 蔷薇烟粉">
+<span style="background: #d21c06;"alt="N°103 橙红诡辩">
+<span style="background: #b61817;"alt="N°104 猩红警报">
+<span style="background: #b5152f;"alt="N°1 正红色">
+<span style="background: #b91b1c;"alt="N°13 正橘色">
+<span style="background: #af3f79;"alt="N°19 玫红色">
+<span style="background: #e8505c;"alt="N°52 星星色">
+<span style="background: #7b3144;"alt="N°95 蔷薇红莓">
+<span style="background: #552431;"alt="N°97 浆果梅紫">
+<span style="background: #904e61;"alt="N°98 梅子豆沙">
+<span style="background: #af7668;"alt="N°340 杏仁蜜铜">
+<span style="background: #b5092e;"alt="限定色N°110 橙红罪证">
+<span style="background: #9c152a;"alt="限定色N°119 莓红火焰">
+
+

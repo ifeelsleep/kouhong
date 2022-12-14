@@ -1,0 +1,3824 @@
+{
+    "brands": [
+        {
+            "name": "Armani",
+            "series": [
+                {
+                    "name": "[传奇红管]臻致丝绒哑光唇釉",
+                    "lipsticks": [
+                        {
+                            "color": "#9F2E21",
+                            "id": "400",
+                            "name": "The Red"
+                        },
+                        {
+                            "color": "#7F1D00",
+                            "id": "405",
+                            "name": "Sultan"
+                        },
+                        {
+                            "color": "#A2190F",
+                            "id": "400G",
+                            "name": "奢金阿玛尼红"
+                        },
+                        {
+                            "color": "#9F2E21",
+                            "id": "400",
+                            "name": "The Red金色限定版"
+                        },
+                        {
+                            "color": "#88140C",
+                            "id": "206",
+                            "name": "陶土红棕"
+                        },
+                        {
+                            "color": "#801F18",
+                            "id": "415",
+                            "name": "赤木红棕"
+                        },
+                        {
+                            "color": "#B65C40",
+                            "id": "103G",
+                            "name": "琉金奶茶橘"
+                        },
+                        {
+                            "color": "#A61F1F",
+                            "id": "416G",
+                            "name": "金闪红棕"
+                        },
+                        {
+                            "color": "#BB2029",
+                            "id": "417G",
+                            "name": "金闪樱桃红"
+                        },
+                        {
+                            "color": "#A62125",
+                            "id": "418G",
+                            "name": "金闪蔷薇粉"
+                        },
+                        {
+                            "color": "#AD5862",
+                            "id": "526G",
+                            "name": "蓝闪紫玫瑰"
+                        },
+                        {
+                            "color": "#842B26",
+                            "id": "602G",
+                            "name": "金闪浆果紫"
+                        },
+                        {
+                            "color": "#7B3039",
+                            "id": "207",
+                            "name": "NATURE&#41;"
+                        },
+                        {
+                            "color": "#A8584C",
+                            "id": "522",
+                            "name": "Desert"
+                        },
+                        {
+                            "color": "#7C363B",
+                            "id": "524",
+                            "name": "玫瑰木棕"
+                        },
+                        {
+                            "color": "#E62026",
+                            "id": "402",
+                            "name": "Chinese Lacquer"
+                        },
+                        {
+                            "color": "#C61B16",
+                            "id": "401",
+                            "name": "The Tibetan Orange"
+                        },
+                        {
+                            "color": "#7A2C25",
+                            "id": "200",
+                            "name": "Terra"
+                        },
+                        {
+                            "color": "#660500",
+                            "id": "201",
+                            "name": "Dark Velvet"
+                        },
+                        {
+                            "color": "#9B5B55",
+                            "id": "202",
+                            "name": "Dolci"
+                        },
+                        {
+                            "color": "#8B3E3D",
+                            "id": "204",
+                            "name": "nuda"
+                        },
+                        {
+                            "color": "#DB3218",
+                            "id": "300",
+                            "name": "Flesh"
+                        },
+                        {
+                            "color": "#BF3118",
+                            "id": "302",
+                            "name": "火热橙"
+                        },
+                        {
+                            "color": "#F2643E",
+                            "id": "304",
+                            "name": "topaze"
+                        },
+                        {
+                            "color": "#E33F2D",
+                            "id": "305",
+                            "name": "tangerine"
+                        },
+                        {
+                            "color": "#B75B5C",
+                            "id": "500",
+                            "name": "Blush"
+                        },
+                        {
+                            "color": "#9C4348",
+                            "id": "501",
+                            "name": "Casual Pink"
+                        },
+                        {
+                            "color": "#870D2F",
+                            "id": "502",
+                            "name": "Art Deco"
+                        },
+                        {
+                            "color": "#B4002F",
+                            "id": "503",
+                            "name": "Red Fuchsia"
+                        },
+                        {
+                            "color": "#541927",
+                            "id": "507",
+                            "name": "Boudoir"
+                        },
+                        {
+                            "color": "#BD445C",
+                            "id": "508",
+                            "name": "Pearly Nude"
+                        },
+                        {
+                            "color": "#871F23",
+                            "id": "-1",
+                            "name": "Ruby Nude"
+                        },
+                        {
+                            "color": "#891D18",
+                            "id": "513",
+                            "name": "rose"
+                        },
+                        {
+                            "color": "#C9385B",
+                            "id": "519",
+                            "name": "夺目粉"
+                        },
+                        {
+                            "color": "#EC425A",
+                            "id": "521",
+                            "name": "peony"
+                        }
+                    ]
+                },
+                {
+                    "name": "[小胖丁]染唇液",
+                    "lipsticks": [
+                        {
+                            "color": "#7D000C",
+                            "id": "402",
+                            "name": "fil rouge"
+                        },
+                        {
+                            "color": "#82001B",
+                            "id": "401",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#850009",
+                            "id": "400",
+                            "name": "four hundred"
+                        },
+                        {
+                            "color": "#A90811",
+                            "id": "301",
+                            "name": "heat"
+                        },
+                        {
+                            "color": "#A3000C",
+                            "id": "302",
+                            "name": "hollywood"
+                        },
+                        {
+                            "color": "#A8272D",
+                            "id": "504",
+                            "name": "nuda"
+                        },
+                        {
+                            "color": "#A8303A",
+                            "id": "506",
+                            "name": "fusion"
+                        },
+                        {
+                            "color": "#6C162E",
+                            "id": "606",
+                            "name": "暗黑紫红"
+                        },
+                        {
+                            "color": "#C5000D",
+                            "id": "300",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#5E0F14",
+                            "id": "403",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#AF2128",
+                            "id": "503",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#A73639",
+                            "id": "505",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#8A263C",
+                            "id": "507",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#681E2D",
+                            "id": "600",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#480916",
+                            "id": "602",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#9C002F",
+                            "id": "500",
+                            "name": "maharajah"
+                        }
+                    ]
+                },
+                {
+                    "name": "[黑管]漆光迷情唇釉",
+                    "lipsticks": [
+                        {
+                            "color": "#6F2120",
+                            "id": "200",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#A9332A",
+                            "id": "300",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#A9332A",
+                            "id": "302",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#7D040A",
+                            "id": "400",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#94030E",
+                            "id": "401",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#AF090F",
+                            "id": "402",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#AF2C43",
+                            "id": "500",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#B93A54",
+                            "id": "501",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#BE5F69",
+                            "id": "502",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#8B4A56",
+                            "id": "503",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#A24266",
+                            "id": "504",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#9D002D",
+                            "id": "505",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#8E0227",
+                            "id": "506",
+                            "name": "none"
+                        }
+                    ]
+                },
+                {
+                    "name": "挚爱哑光唇膏",
+                    "lipsticks": [
+                        {
+                            "color": "#BE5454",
+                            "id": "102",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#5C231C",
+                            "id": "200",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#721B27",
+                            "id": "201",
+                            "name": "浓郁浆果红"
+                        },
+                        {
+                            "color": "#B12523",
+                            "id": "301",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#8B0D1A",
+                            "id": "400",
+                            "name": "经典阿玛尼红"
+                        },
+                        {
+                            "color": "#A2081C",
+                            "id": "403",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#C15B59",
+                            "id": "500",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#87383A",
+                            "id": "501",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#943F59",
+                            "id": "502",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#BB464D",
+                            "id": "503",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#BD0E56",
+                            "id": "506",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#4E112E",
+                            "id": "600",
+                            "name": "none"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "M.A.c",
+            "series": [
+                {
+                    "name": "\u54d1\u5149\u5507\u818f",
+                    "lipsticks": [
+                        {
+                            "color": "#AF0009",
+                            "id": "-1",
+                            "name": "Ruby Woo "
+                        },
+                        {
+                            "color": "#DD3D31",
+                            "id": "-1",
+                            "name": "Dangerous"
+                        },
+                        {
+                            "color": "#DE0C56",
+                            "id": "-1",
+                            "name": "All Fired Up"
+                        },
+                        {
+                            "color": "#BD433E",
+                            "id": "-1",
+                            "name": "Runway Hit"
+                        },
+                        {
+                            "color": "#F61143",
+                            "id": "-1",
+                            "name": "Relentlessly Red"
+                        },
+                        {
+                            "color": "#C21E7C",
+                            "id": "-1",
+                            "name": "Flat Out Fabulous"
+                        },
+                        {
+                            "color": "#EF94A5",
+                            "id": "-1",
+                            "name": "Steady Going"
+                        }
+                    ]
+                },
+                {
+                    "name": "\u663e\u8272\u4e30\u6da6\u5507\u818f",
+                    "lipsticks": [
+                        {
+                            "color": "#993F3F",
+                            "id": "-1",
+                            "name": "Dubonnet "
+                        },
+                        {
+                            "color": "#C06B6F",
+                            "id": "-1",
+                            "name": "Brick"
+                        },
+                        {
+                            "color": "#A24C4F",
+                            "id": "-1",
+                            "name": "Smoked Almond"
+                        },
+                        {
+                            "color": "#D78080",
+                            "id": "-1",
+                            "name": "Vegas Volt "
+                        },
+                        {
+                            "color": "#EC735E",
+                            "id": "-1",
+                            "name": "Morange "
+                        },
+                        {
+                            "color": "#EA5836",
+                            "id": "-1",
+                            "name": "Neon Orange"
+                        },
+                        {
+                            "color": "#DC3D88",
+                            "id": "-1",
+                            "name": "Full Fuschia"
+                        },
+                        {
+                            "color": "#DC4F73",
+                            "id": "-1",
+                            "name": "Impassioned"
+                        },
+                        {
+                            "color": "#713C4D",
+                            "id": "-1",
+                            "name": "Dark Side"
+                        },
+                        {
+                            "color": "#BC617D",
+                            "id": "-1",
+                            "name": "Craving"
+                        },
+                        {
+                            "color": "#C9548A",
+                            "id": "-1",
+                            "name": "Girl About Town"
+                        },
+                        {
+                            "color": "#D87A92",
+                            "id": "-1",
+                            "name": "Chatterbox"
+                        },
+                        {
+                            "color": "#DF3A5F",
+                            "id": "-1",
+                            "name": "Fusion Pink"
+                        },
+                        {
+                            "color": "#E887C6",
+                            "id": "-1",
+                            "name": "Saint Germain"
+                        },
+                        {
+                            "color": "#B8787A",
+                            "id": "-1",
+                            "name": "Cosmo"
+                        },
+                        {
+                            "color": "#C49084",
+                            "id": "-1",
+                            "name": "Half "
+                        },
+                        {
+                            "color": "#B48081",
+                            "id": "-1",
+                            "name": "Fast Play"
+                        },
+                        {
+                            "color": "#D83A9F",
+                            "id": "-1",
+                            "name": "Show Orchid"
+                        },
+                        {
+                            "color": "#CCA099",
+                            "id": "-1",
+                            "name": "Blankety"
+                        },
+                        {
+                            "color": "#AD629E",
+                            "id": "-1",
+                            "name": "Up The Amp"
+                        },
+                        {
+                            "color": "#81368F",
+                            "id": "-1",
+                            "name": "Violetta"
+                        },
+                        {
+                            "color": "#FF9755",
+                            "id": "-1",
+                            "name": "Nifty Neon"
+                        }
+                    ]
+                },
+                {
+                    "name": "\u67d4\u611f\u54d1\u5149\u5507\u818f",
+                    "lipsticks": [
+                        {
+                            "color": "#A71E0B",
+                            "id": "-1",
+                            "name": "Chili "
+                        },
+                        {
+                            "color": "#9B381E",
+                            "id": "-1",
+                            "name": "Marrakesh "
+                        },
+                        {
+                            "color": "#B3181D",
+                            "id": "-1",
+                            "name": "Russian Red "
+                        },
+                        {
+                            "color": "#ED2600",
+                            "id": "-1",
+                            "name": "Lady Danger "
+                        },
+                        {
+                            "color": "#671B25",
+                            "id": "-1",
+                            "name": "Diva "
+                        },
+                        {
+                            "color": "#8E233C",
+                            "id": "-1",
+                            "name": "D for Danger"
+                        },
+                        {
+                            "color": "#E8181D",
+                            "id": "-1",
+                            "name": "Red Rock"
+                        },
+                        {
+                            "color": "#D7523D",
+                            "id": "-1",
+                            "name": "So Chaud"
+                        },
+                        {
+                            "color": "#FB3A3D",
+                            "id": "-1",
+                            "name": "Mangrove"
+                        },
+                        {
+                            "color": "#945246",
+                            "id": "-1",
+                            "name": "Whirl"
+                        },
+                        {
+                            "color": "#691B1C",
+                            "id": "-1",
+                            "name": "Sin"
+                        },
+                        {
+                            "color": "#AE6C5B",
+                            "id": "-1",
+                            "name": "Taupe"
+                        },
+                        {
+                            "color": "#D27A66",
+                            "id": "-1",
+                            "name": "Velvet Teddy"
+                        },
+                        {
+                            "color": "#F75753",
+                            "id": "-1",
+                            "name": "Tropic Tonic "
+                        },
+                        {
+                            "color": "#C48075",
+                            "id": "-1",
+                            "name": "Kinda Sexy"
+                        },
+                        {
+                            "color": "#702F2B",
+                            "id": "-1",
+                            "name": "Antique Velvet"
+                        },
+                        {
+                            "color": "#B27D6D",
+                            "id": "-1",
+                            "name": "Honeylove"
+                        },
+                        {
+                            "color": "#74427F",
+                            "id": "-1",
+                            "name": "Heroine"
+                        },
+                        {
+                            "color": "#C35965",
+                            "id": "-1",
+                            "name": "Mehr"
+                        },
+                        {
+                            "color": "#AF7A61",
+                            "id": "-1",
+                            "name": "Yash"
+                        },
+                        {
+                            "color": "#F15D73",
+                            "id": "-1",
+                            "name": "Please Me"
+                        },
+                        {
+                            "color": "#FF1986",
+                            "id": "-1",
+                            "name": "Breathing Fire"
+                        },
+                        {
+                            "color": "#D09191",
+                            "id": "-1",
+                            "name": "Really Me"
+                        },
+                        {
+                            "color": "#502340",
+                            "id": "-1",
+                            "name": "Instigator"
+                        },
+                        {
+                            "color": "#E2397A",
+                            "id": "-1",
+                            "name": "Pink Pigeon"
+                        },
+                        {
+                            "color": "#3B3154",
+                            "id": "-1",
+                            "name": "Punk Couture"
+                        },
+                        {
+                            "color": "#524D50",
+                            "id": "-1",
+                            "name": "In The Spirit"
+                        },
+                        {
+                            "color": "#E34493",
+                            "id": "-1",
+                            "name": "Candy Yum"
+                        },
+                        {
+                            "color": "#C17D70",
+                            "id": "-1",
+                            "name": "Bronx"
+                        },
+                        {
+                            "color": "#C67A8A",
+                            "id": "-1",
+                            "name": "Pink Plaid"
+                        },
+                        {
+                            "color": "#573E4E",
+                            "id": "-1",
+                            "name": "Smoked Purple"
+                        },
+                        {
+                            "color": "#E97AE5",
+                            "id": "-1",
+                            "name": "Lavender Jade"
+                        },
+                        {
+                            "color": "#201D4A",
+                            "id": "-1",
+                            "name": "Matte Royal"
+                        },
+                        {
+                            "color": "#905245",
+                            "id": "-1",
+                            "name": "Persistence"
+                        },
+                        {
+                            "color": "#AE7558",
+                            "id": "-1",
+                            "name": "Naturally Transformed"
+                        },
+                        {
+                            "color": "#B95C91",
+                            "id": "-1",
+                            "name": "Men Love Mystery"
+                        },
+                        {
+                            "color": "#835D52",
+                            "id": "-1",
+                            "name": "Stone"
+                        },
+                        {
+                            "color": "#8A2C24",
+                            "id": "-1",
+                            "name": "Studded Kiss"
+                        },
+                        {
+                            "color": "#ECC3C8",
+                            "id": "-1",
+                            "name": "Lazy Lullaby"
+                        },
+                        {
+                            "color": "#52413E",
+                            "id": "-1",
+                            "name": "In My Fashion"
+                        },
+                        {
+                            "color": "#84616A",
+                            "id": "-1",
+                            "name": "Lightly Charred"
+                        },
+                        {
+                            "color": "#876564",
+                            "id": "-1",
+                            "name": "Deep Rooted"
+                        },
+                        {
+                            "color": "#8AD8FE",
+                            "id": "-1",
+                            "name": "Dreampot"
+                        },
+                        {
+                            "color": "#B483C2",
+                            "id": "-1",
+                            "name": "4Eva"
+                        },
+                        {
+                            "color": "#F9F6F0",
+                            "id": "-1",
+                            "name": "Frosting"
+                        }
+                    ]
+                },
+                {
+                    "name": "\u6c34\u6f3e\u6da6\u6cfd\u5507\u818f",
+                    "lipsticks": [
+                        {
+                            "color": "#B23532",
+                            "id": "-1",
+                            "name": "Lady Bug "
+                        },
+                        {
+                            "color": "#972E2E",
+                            "id": "-1",
+                            "name": "Cockney "
+                        },
+                        {
+                            "color": "#C76B68",
+                            "id": "-1",
+                            "name": "See Sheer "
+                        },
+                        {
+                            "color": "#753633",
+                            "id": "-1",
+                            "name": "Spice It Up!"
+                        },
+                        {
+                            "color": "#FA9696",
+                            "id": "-1",
+                            "name": "Flamingo"
+                        },
+                        {
+                            "color": "#996353",
+                            "id": "-1",
+                            "name": "Touch"
+                        },
+                        {
+                            "color": "#C97885",
+                            "id": "-1",
+                            "name": "Giddy"
+                        },
+                        {
+                            "color": "#B88778",
+                            "id": "-1",
+                            "name": "Jubilee"
+                        },
+                        {
+                            "color": "#B0607D",
+                            "id": "-1",
+                            "name": "Plumful"
+                        },
+                        {
+                            "color": "#9F626C",
+                            "id": "-1",
+                            "name": "Capricious"
+                        },
+                        {
+                            "color": "#C75E93",
+                            "id": "-1",
+                            "name": "Milan Mode"
+                        },
+                        {
+                            "color": "#B4847D",
+                            "id": "-1",
+                            "name": "Hug Me"
+                        },
+                        {
+                            "color": "#D2547A",
+                            "id": "-1",
+                            "name": "Lustering"
+                        },
+                        {
+                            "color": "#CC9393",
+                            "id": "-1",
+                            "name": "Patisserie"
+                        },
+                        {
+                            "color": "#D5AFB2",
+                            "id": "-1",
+                            "name": "Pretty Please"
+                        },
+                        {
+                            "color": "#AA5E83",
+                            "id": "-1",
+                            "name": "Sweetie"
+                        },
+                        {
+                            "color": "#B17581",
+                            "id": "-1",
+                            "name": "Syrup"
+                        },
+                        {
+                            "color": "#CD8394",
+                            "id": "-1",
+                            "name": "Lovelorn"
+                        },
+                        {
+                            "color": "#AA8572",
+                            "id": "-1",
+                            "name": "Fresh Brew"
+                        },
+                        {
+                            "color": "#C99797",
+                            "id": "-1",
+                            "name": "Politely Pink"
+                        },
+                        {
+                            "color": "#B07B76",
+                            "id": "-1",
+                            "name": "Midimauve"
+                        },
+                        {
+                            "color": "#E58680",
+                            "id": "-1",
+                            "name": "Razzledazzler"
+                        },
+                        {
+                            "color": "#F3AB6A",
+                            "id": "-1",
+                            "name": "Highlights"
+                        },
+                        {
+                            "color": "#FEC74F",
+                            "id": "-1",
+                            "name": "Gold XIXI"
+                        }
+                    ]
+                },
+                {
+                    "name": "\u9b45\u53ef\u4e1d\u7f0e\u67d4\u96fe\u5507\u818f",
+                    "lipsticks": [
+                        {
+                            "color": "#AF3832",
+                            "id": "316",
+                            "name": "316 Devoted To Chili "
+                        },
+                        {
+                            "color": "#BA3A39",
+                            "id": "923",
+                            "name": "923 Stay Curious"
+                        },
+                        {
+                            "color": "#BA0B08",
+                            "id": "922",
+                            "name": "922 Werk, Werk, Werk"
+                        },
+                        {
+                            "color": "#C76864",
+                            "id": "314",
+                            "name": "314 Mull It Over "
+                        },
+                        {
+                            "color": "#C13D4A",
+                            "id": "301",
+                            "name": "301 A Little Tamed "
+                        },
+                        {
+                            "color": "#BC554E",
+                            "id": "921",
+                            "name": "921 Sultry Move"
+                        },
+                        {
+                            "color": "#B51E3F",
+                            "id": "306",
+                            "name": "306 Shocking Revelation "
+                        },
+                        {
+                            "color": "#CD0C27",
+                            "id": "315",
+                            "name": "315 Lasting Passion "
+                        },
+                        {
+                            "color": "#933A50",
+                            "id": "305",
+                            "name": "305 Burning Love "
+                        },
+                        {
+                            "color": "#E02F05",
+                            "id": "303",
+                            "name": "303 Style Shocked!"
+                        },
+                        {
+                            "color": "#E43D45",
+                            "id": "308",
+                            "name": "308 Mandarin O "
+                        },
+                        {
+                            "color": "#D8716A",
+                            "id": "-1",
+                            "name": "Reverence"
+                        },
+                        {
+                            "color": "#B26F54",
+                            "id": "312",
+                            "name": "312 Impulsive "
+                        },
+                        {
+                            "color": "#CD3669",
+                            "id": "-1",
+                            "name": "Velvet Punch"
+                        },
+                        {
+                            "color": "#FB236A",
+                            "id": "307",
+                            "name": "307 Fall In Love "
+                        },
+                        {
+                            "color": "#C78797",
+                            "id": "-1",
+                            "name": "Ripened"
+                        },
+                        {
+                            "color": "#823B5B",
+                            "id": "-1",
+                            "name": "P For Potent"
+                        },
+                        {
+                            "color": "#D87C89",
+                            "id": "304",
+                            "name": "304 Sultriness "
+                        },
+                        {
+                            "color": "#EAA181",
+                            "id": "311",
+                            "name": "311 My Tweedy "
+                        },
+                        {
+                            "color": "#D39387",
+                            "id": "310",
+                            "name": "310 Influentially It "
+                        },
+                        {
+                            "color": "#CC746A",
+                            "id": "302",
+                            "name": "302 Sweet, No Sugar "
+                        },
+                        {
+                            "color": "#E8AA93",
+                            "id": "309",
+                            "name": "309 Best Of Me "
+                        },
+                        {
+                            "color": "#F55F8C",
+                            "id": "-1",
+                            "name": "Sexy, But Sweet"
+                        },
+                        {
+                            "color": "#F78C82",
+                            "id": "313",
+                            "name": "313 Scattered Petals "
+                        }
+                    ]
+                },
+                {
+                    "name": "\u9b45\u53ef\u6da6\u91c7\u8bf1\u5149\u5507\u818f",
+                    "lipsticks": [
+                        {
+                            "color": "#973335",
+                            "id": "-1",
+                            "name": "Dare You "
+                        },
+                        {
+                            "color": "#E32929",
+                            "id": "-1",
+                            "name": "Sweet Sakura "
+                        },
+                        {
+                            "color": "#E94633",
+                            "id": "-1",
+                            "name": "Dozen Carnations "
+                        },
+                        {
+                            "color": "#A51629",
+                            "id": "-1",
+                            "name": "Brave Red "
+                        },
+                        {
+                            "color": "#803450",
+                            "id": "-1",
+                            "name": "Party Line"
+                        },
+                        {
+                            "color": "#EB666D",
+                            "id": "-1",
+                            "name": "Crosswires"
+                        },
+                        {
+                            "color": "#CF6067",
+                            "id": "-1",
+                            "name": "On Hold"
+                        },
+                        {
+                            "color": "#F0525C",
+                            "id": "-1",
+                            "name": "Pretty Boy"
+                        },
+                        {
+                            "color": "#A8676D",
+                            "id": "-1",
+                            "name": "Cr"
+                        },
+                        {
+                            "color": "#E97D6E",
+                            "id": "-1",
+                            "name": "Nippon"
+                        },
+                        {
+                            "color": "#C2898A",
+                            "id": "-1",
+                            "name": "Modesty"
+                        },
+                        {
+                            "color": "#C16F8C",
+                            "id": "-1",
+                            "name": "Hot Gossip"
+                        },
+                        {
+                            "color": "#E85F82",
+                            "id": "-1",
+                            "name": "Speak Louder"
+                        },
+                        {
+                            "color": "#F88D80",
+                            "id": "-1",
+                            "name": "Ravishing"
+                        },
+                        {
+                            "color": "#E98484",
+                            "id": "-1",
+                            "name": "Coral Bliss"
+                        },
+                        {
+                            "color": "#C97D75",
+                            "id": "-1",
+                            "name": "Shanghai Spice"
+                        },
+                        {
+                            "color": "#FF6A97",
+                            "id": "-1",
+                            "name": "Pink Pearl Pop"
+                        },
+                        {
+                            "color": "#F2808C",
+                            "id": "-1",
+                            "name": "Sunny Seoul"
+                        },
+                        {
+                            "color": "#DFB3A6",
+                            "id": "-1",
+                            "name": "Cr"
+                        },
+                        {
+                            "color": "#5F363F",
+                            "id": "-1",
+                            "name": "Hang"
+                        },
+                        {
+                            "color": "#BA3A6D",
+                            "id": "-1",
+                            "name": "Lickable"
+                        },
+                        {
+                            "color": "#C7838B",
+                            "id": "-1",
+                            "name": "Peach Blossom"
+                        },
+                        {
+                            "color": "#F16F9F",
+                            "id": "-1",
+                            "name": "Speed Dial"
+                        },
+                        {
+                            "color": "#D37782",
+                            "id": "-1",
+                            "name": "Fanfare"
+                        },
+                        {
+                            "color": "#DE9787",
+                            "id": "-1",
+                            "name": "Shy Girl"
+                        },
+                        {
+                            "color": "#D39697",
+                            "id": "-1",
+                            "name": "Cr"
+                        },
+                        {
+                            "color": "#D89688",
+                            "id": "-1",
+                            "name": "Pure Zen"
+                        },
+                        {
+                            "color": "#D8A195",
+                            "id": "-1",
+                            "name": "Japanese Maple"
+                        },
+                        {
+                            "color": "#FF713C",
+                            "id": "-1",
+                            "name": "Saigon Summer"
+                        },
+                        {
+                            "color": "#FF9782",
+                            "id": "-1",
+                            "name": "Sweet "
+                        },
+                        {
+                            "color": "#E9616F",
+                            "id": "-1",
+                            "name": "Little Buddha"
+                        },
+                        {
+                            "color": "#F2668E",
+                            "id": "-1",
+                            "name": "Star Magnolia"
+                        },
+                        {
+                            "color": "#E04171",
+                            "id": "-1",
+                            "name": "Pickled Plum"
+                        },
+                        {
+                            "color": "#F28571",
+                            "id": "-1",
+                            "name": "Koi Coral"
+                        },
+                        {
+                            "color": "#E4C1E2",
+                            "id": "-1",
+                            "name": "Love "
+                        }
+                    ]
+                },
+                {
+                    "name": "\u9b45\u53ef\u95ea\u4eae\u661f\u6cfd\u5507\u818f",
+                    "lipsticks": [
+                        {
+                            "color": "#CC5A3B",
+                            "id": "-1",
+                            "name": "CB "
+                        },
+                        {
+                            "color": "#AA5B51",
+                            "id": "-1",
+                            "name": "Fresh Moroccan"
+                        },
+                        {
+                            "color": "#F4C58E",
+                            "id": "-1",
+                            "name": "Spoiled Fabulous"
+                        },
+                        {
+                            "color": "#903A59",
+                            "id": "-1",
+                            "name": "New York Apple"
+                        },
+                        {
+                            "color": "#DC7B7D",
+                            "id": "-1",
+                            "name": "Costa Chic"
+                        },
+                        {
+                            "color": "#F16974",
+                            "id": "-1",
+                            "name": "Skew"
+                        },
+                        {
+                            "color": "#C48950",
+                            "id": "-1",
+                            "name": "Bronze Shimmer"
+                        },
+                        {
+                            "color": "#FD428B",
+                            "id": "-1",
+                            "name": "Pink, You Think?"
+                        },
+                        {
+                            "color": "#AD7481",
+                            "id": "-1",
+                            "name": "Plum Dandy"
+                        },
+                        {
+                            "color": "#D9A1A7",
+                            "id": "-1",
+                            "name": "Angel"
+                        },
+                        {
+                            "color": "#A1E7DA",
+                            "id": "-1",
+                            "name": "Soft Hint"
+                        },
+                        {
+                            "color": "#E7C7AF",
+                            "id": "-1",
+                            "name": "Gel"
+                        },
+                        {
+                            "color": "#6E5E70",
+                            "id": "-1",
+                            "name": "On and On"
+                        },
+                        {
+                            "color": "#7D4FAC",
+                            "id": "-1",
+                            "name": "Model Behaviour"
+                        },
+                        {
+                            "color": "#2C5AA2",
+                            "id": "-1",
+                            "name": "Designer Blue"
+                        },
+                        {
+                            "color": "#B07D69",
+                            "id": "-1",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#F1AFD9",
+                            "id": "-1",
+                            "name": "Pick Me, Pick Me!"
+                        },
+                        {
+                            "color": "#915476",
+                            "id": "-1",
+                            "name": "Odyssey"
+                        },
+                        {
+                            "color": "#BA8096",
+                            "id": "-1",
+                            "name": "Creme de la Femme"
+                        },
+                        {
+                            "color": "#CB969C",
+                            "id": "-1",
+                            "name": "Fabby"
+                        },
+                        {
+                            "color": "#CC7C92",
+                            "id": "-1",
+                            "name": "Bombshell"
+                        },
+                        {
+                            "color": "#CDC449",
+                            "id": "-1",
+                            "name": "Wild Extract"
+                        },
+                        {
+                            "color": "#DCDCDC",
+                            "id": "-1",
+                            "name": "Time To Shine"
+                        },
+                        {
+                            "color": "#B6AA8A",
+                            "id": "-1",
+                            "name": "No Interruptions"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "YSL",
+            "series": [
+                {
+                    "name": "\u5706\u7ba1or\u83b9\u4eae\u7eaf\u9b45\u5507\u818f",
+                    "lipsticks": [
+                        {
+                            "color": "#9C131C",
+                            "id": "N\u00b080",
+                            "name": "\u8840\u8165\u739b\u4e3d"
+                        },
+                        {
+                            "color": "#AD0D29",
+                            "id": "N\u00b083",
+                            "name": "\u7ea2\u4e1d\u7ed2\u86cb\u7cd5"
+                        },
+                        {
+                            "color": "#B71D32",
+                            "id": "N\u00b004",
+                            "name": "\u70ed\u60c5\u6d46\u679c"
+                        },
+                        {
+                            "color": "#B22146",
+                            "id": "N\u00b005",
+                            "name": "\u73ab\u8c03\u6843\u82b1"
+                        },
+                        {
+                            "color": "#DE3443",
+                            "id": "N\u00b012",
+                            "name": "\u65a9\u7537\u8272"
+                        },
+                        {
+                            "color": "#E06F70",
+                            "id": "N\u00b013",
+                            "name": "\u6a31\u82b1\u8272"
+                        },
+                        {
+                            "color": "#DC4B41",
+                            "id": "N\u00b014",
+                            "name": "\u73ca\u745a\u6a58"
+                        },
+                        {
+                            "color": "#E06C68",
+                            "id": "N\u00b015",
+                            "name": "\u73ca\u745a\u604b\u4eba"
+                        },
+                        {
+                            "color": "#CE4342",
+                            "id": "N\u00b016",
+                            "name": "\u897f\u67da\u751c\u6a58"
+                        },
+                        {
+                            "color": "#EFE9DD",
+                            "id": "N\u00b042",
+                            "name": "\u73e0\u5149\u8d1d\u6bcd"
+                        },
+                        {
+                            "color": "#C26E70",
+                            "id": "N\u00b044",
+                            "name": "\u610f\u5916"
+                        },
+                        {
+                            "color": "#C50E2D",
+                            "id": "N\u00b045",
+                            "name": "\u751c\u7f8e\u897f\u74dc\u7ea2"
+                        },
+                        {
+                            "color": "#D50B0B",
+                            "id": "N\u00b046",
+                            "name": "\u897f\u67da\u73ca\u745a"
+                        },
+                        {
+                            "color": "#BB6767",
+                            "id": "N\u00b047",
+                            "name": "\u5fc3\u8df3"
+                        },
+                        {
+                            "color": "#90223D",
+                            "id": "N\u00b048",
+                            "name": "\u70df\u718f\u6885\u5b50\u8272"
+                        },
+                        {
+                            "color": "#CE404E",
+                            "id": "N\u00b057",
+                            "name": "\u6696\u8c03\u6c34\u7ea2"
+                        },
+                        {
+                            "color": "#BB4845",
+                            "id": "N\u00b079",
+                            "name": "\u674f\u4ec1\u5976\u8336"
+                        },
+                        {
+                            "color": "#C92C33",
+                            "id": "N\u00b081",
+                            "name": "\u5357\u74dc\u8212\u8299\u857e"
+                        },
+                        {
+                            "color": "#DD333C",
+                            "id": "N\u00b082",
+                            "name": "\u871c\u6854\u677e\u997c"
+                        },
+                        {
+                            "color": "#B40637",
+                            "id": "N\u00b084",
+                            "name": "\u6a31\u6843\u767d\u5170\u5730"
+                        },
+                        {
+                            "color": "#9D0629",
+                            "id": "N\u00b085",
+                            "name": "\u52c3\u826e\u7b2c\u7ea2\u9152"
+                        },
+                        {
+                            "color": "#AF3B48",
+                            "id": "N\u00b086",
+                            "name": "\u7ea2\u8c46\u6c99\u51b0"
+                        },
+                        {
+                            "color": "#C0494D",
+                            "id": "N\u00b087",
+                            "name": "\u8089\u6842\u8c46\u6c99"
+                        },
+                        {
+                            "color": "#B33F54",
+                            "id": "N\u00b088",
+                            "name": "\u73ab\u7470\u62ff\u94c1"
+                        },
+                        {
+                            "color": "#A94148",
+                            "id": "N\u00b089",
+                            "name": "\u9152\u917f\u73ab\u7470"
+                        },
+                        {
+                            "color": "#932D45",
+                            "id": "N\u00b090",
+                            "name": "\u8513\u8d8a\u8393\u66f2\u5947"
+                        }
+                    ]
+                },
+                {
+                    "name": "\u5c0f\u91d1\u6761or\u7ec6\u7ba1\u7eaf\u53e3\u7ea2",
+                    "lipsticks": [
+                        {
+                            "color": "#9D2430",
+                            "id": "N\u00b021",
+                            "name": "\u590d\u53e4\u6b63\u7ea2"
+                        },
+                        {
+                            "color": "#8E2D2D",
+                            "id": "N\u00b023",
+                            "name": "\u6a59\u7ea2\u756a\u8304"
+                        },
+                        {
+                            "color": "#88332E",
+                            "id": "N\u00b09",
+                            "name": "\u68d5\u8c03\u9152\u7ea2"
+                        },
+                        {
+                            "color": "#B55358",
+                            "id": "N\u00b012",
+                            "name": "\u5e72\u67af\u73ab\u7470"
+                        },
+                        {
+                            "color": "#9C262D",
+                            "id": "N\u00b01",
+                            "name": "\u545b\u53e3\u8fa3\u6912"
+                        },
+                        {
+                            "color": "#DB0024",
+                            "id": "N\u00b03",
+                            "name": "\u897f\u67da\u73ca\u745a"
+                        },
+                        {
+                            "color": "#6A233D",
+                            "id": "N\u00b04",
+                            "name": "\u6d46\u679c\u6885\u7d2b"
+                        },
+                        {
+                            "color": "#602227",
+                            "id": "N\u00b05",
+                            "name": "\u9ed1\u6a31\u6843\u8272"
+                        },
+                        {
+                            "color": "#9E5D4F",
+                            "id": "N\u00b06",
+                            "name": "\u7126\u7cd6\u674f\u4ec1"
+                        },
+                        {
+                            "color": "#C24D61",
+                            "id": "N\u00b07",
+                            "name": "\u6a31\u82b1\u88f8\u7c89"
+                        },
+                        {
+                            "color": "#BB3C32",
+                            "id": "N\u00b010",
+                            "name": "\u5143\u6c14\u871c\u6a58"
+                        },
+                        {
+                            "color": "#AA5751",
+                            "id": "N\u00b011",
+                            "name": "\u8089\u6842\u674f\u7c89"
+                        },
+                        {
+                            "color": "#B8352D",
+                            "id": "N\u00b013",
+                            "name": "\u7eaf\u6b63\u73ca\u745a"
+                        },
+                        {
+                            "color": "#C32D4C",
+                            "id": "N\u00b014",
+                            "name": "\u4eae\u4e3d\u73ab\u7c89"
+                        },
+                        {
+                            "color": "#9E2337",
+                            "id": "N\u00b015",
+                            "name": "\u7d2b\u8c03\u73ab\u7ea2"
+                        },
+                        {
+                            "color": "#793442",
+                            "id": "N\u00b016",
+                            "name": "\u7d2b\u85e4\u73ab\u7470"
+                        },
+                        {
+                            "color": "#561318",
+                            "id": "N\u00b018",
+                            "name": "\u8461\u8404\u9152\u7ea2"
+                        },
+                        {
+                            "color": "#E23F87",
+                            "id": "N\u00b019",
+                            "name": "\u871c\u7cd6\u4eae\u7c89"
+                        },
+                        {
+                            "color": "#A90705",
+                            "id": "N\u00b020",
+                            "name": "\u8349\u8393\u6c34\u7ea2"
+                        },
+                        {
+                            "color": "#823C3F",
+                            "id": "N\u00b022",
+                            "name": "\u5de7\u514b\u529b\u7ea2\u68d5"
+                        }
+                    ]
+                },
+                {
+                    "name": "\u5c0f\u94f6\u6761or\u7ec6\u7ba1\u8f7b\u96fe\u7eaf\u53e3\u7ea2",
+                    "lipsticks": [
+                        {
+                            "color": "#AD3148",
+                            "id": "N\u00b0107",
+                            "name": "\u8584\u7eb1\u9152\u6e0d\u7ea2"
+                        },
+                        {
+                            "color": "#DF203E",
+                            "id": "N\u00b0108",
+                            "name": "\u8584\u7eb1\u67ab\u53f6\u7ea2"
+                        },
+                        {
+                            "color": "#C92D43",
+                            "id": "N\u00b0101",
+                            "name": "\u67d4\u96fe\u7ea2\u8393"
+                        },
+                        {
+                            "color": "#C47A72",
+                            "id": "N\u00b0102",
+                            "name": "\u6a31\u7c89\u7ec9\u7eb1"
+                        },
+                        {
+                            "color": "#EC6A4C",
+                            "id": "N\u00b0103",
+                            "name": "\u970f\u96fe\u6a59\u7ea2"
+                        },
+                        {
+                            "color": "#DC468D",
+                            "id": "N\u00b0104",
+                            "name": "\u73ab\u7d2b\u8ff7\u96fe"
+                        },
+                        {
+                            "color": "#E62D41",
+                            "id": "N\u00b0105",
+                            "name": "\u7eeb\u7eb1\u660e\u7ea2"
+                        },
+                        {
+                            "color": "#EF8A86",
+                            "id": "N\u00b0106",
+                            "name": "\u674f\u7c89\u8f7b\u5e54"
+                        },
+                        {
+                            "color": "#DA4375",
+                            "id": "N\u00b0109",
+                            "name": "\u73ab\u7ea2\u4e1d\u5149"
+                        },
+                        {
+                            "color": "#BE4470",
+                            "id": "N\u00b0110",
+                            "name": "\u8537\u8587\u7eb1\u5e54"
+                        },
+                        {
+                            "color": "#EA5369",
+                            "id": "N\u00b0111",
+                            "name": "\u7fbd\u7eb1\u73ca\u745a"
+                        },
+                        {
+                            "color": "#D25657",
+                            "id": "N\u00b0112",
+                            "name": "\u8f7b\u96fe\u871c\u6843"
+                        }
+                    ]
+                },
+                {
+                    "name": "\u7eaf\u53e3\u7ea2",
+                    "lipsticks": [
+                        {
+                            "color": "#B5152F",
+                            "id": "N\u00b001",
+                            "name": "\u6b63\u7ea2\u8272"
+                        },
+                        {
+                            "color": "#C40031",
+                            "id": "N\u00b093",
+                            "name": "\u725b\u8840\u8272"
+                        },
+                        {
+                            "color": "#B91B1C",
+                            "id": "N\u00b013",
+                            "name": "\u6b63\u6a58\u8272"
+                        },
+                        {
+                            "color": "#C92877",
+                            "id": "N\u00b007",
+                            "name": "\u96c5\u7d2b\u7eb1\u84c9"
+                        },
+                        {
+                            "color": "#D85D71",
+                            "id": "N\u00b09",
+                            "name": "\u8c46\u6c99\u7d2b"
+                        },
+                        {
+                            "color": "#C17583",
+                            "id": "N\u00b009",
+                            "name": "\u6885\u5b50\u8c46\u6c99\u8272"
+                        },
+                        {
+                            "color": "#BA464C",
+                            "id": "N\u00b016",
+                            "name": "\u73ab\u7470\u7ea2"
+                        },
+                        {
+                            "color": "#F55F73",
+                            "id": "N\u00b017",
+                            "name": "\u897f\u67da\u7c89"
+                        },
+                        {
+                            "color": "#C96E85",
+                            "id": "N\u00b026",
+                            "name": "\u5807\u8272\u6d41\u7eb1"
+                        },
+                        {
+                            "color": "#E8505C",
+                            "id": "N\u00b052",
+                            "name": "\u661f\u661f\u8272"
+                        },
+                        {
+                            "color": "#D81B23",
+                            "id": "N\u00b056",
+                            "name": "\u6696\u91d1\u6a58\u7ea2"
+                        },
+                        {
+                            "color": "#981E31",
+                            "id": "N\u00b072",
+                            "name": "\u73ab\u7470\u9152\u7ea2"
+                        },
+                        {
+                            "color": "#CD0D1D",
+                            "id": "N\u00b073",
+                            "name": "\u8840\u6a59\u8272"
+                        },
+                        {
+                            "color": "#B12941",
+                            "id": "N\u00b082",
+                            "name": "\u8393\u679c\u7ea2"
+                        },
+                        {
+                            "color": "#B34E55",
+                            "id": "N\u00b084",
+                            "name": "\u73ab\u7470\u8c46\u6c99"
+                        },
+                        {
+                            "color": "#912442",
+                            "id": "N\u00b088",
+                            "name": "\u6885\u7ea2\u8272"
+                        },
+                        {
+                            "color": "#9B5054",
+                            "id": "N\u00b090",
+                            "name": "\u73ab\u7470\u8336\u68d5"
+                        },
+                        {
+                            "color": "#AF192A",
+                            "id": "N\u00b091",
+                            "name": "\u6a59\u7ea2\u8272"
+                        },
+                        {
+                            "color": "#B2484F",
+                            "id": "N\u00b092",
+                            "name": "\u8537\u8587\u70df\u7c89"
+                        },
+                        {
+                            "color": "#D21C06",
+                            "id": "N\u00b0103",
+                            "name": "\u6a59\u7ea2\u8be1\u8fa9"
+                        },
+                        {
+                            "color": "#B61817",
+                            "id": "N\u00b0104",
+                            "name": "\u7329\u7ea2\u8b66\u62a5"
+                        },
+                        {
+                            "color": "#B5152F",
+                            "id": "N\u00b01",
+                            "name": "\u6b63\u7ea2\u8272"
+                        },
+                        {
+                            "color": "#B91B1C",
+                            "id": "N\u00b013",
+                            "name": "\u6b63\u6a58\u8272"
+                        },
+                        {
+                            "color": "#AF3F79",
+                            "id": "N\u00b019",
+                            "name": "\u73ab\u7ea2\u8272"
+                        },
+                        {
+                            "color": "#E8505C",
+                            "id": "N\u00b052",
+                            "name": "\u661f\u661f\u8272"
+                        },
+                        {
+                            "color": "#7B3144",
+                            "id": "N\u00b095",
+                            "name": "\u8537\u8587\u7ea2\u8393"
+                        },
+                        {
+                            "color": "#552431",
+                            "id": "N\u00b097",
+                            "name": "\u6d46\u679c\u6885\u7d2b"
+                        },
+                        {
+                            "color": "#904E61",
+                            "id": "N\u00b098",
+                            "name": "\u6885\u5b50\u8c46\u6c99"
+                        },
+                        {
+                            "color": "#AF7668",
+                            "id": "N\u00b0340",
+                            "name": "\u674f\u4ec1\u871c\u94dc"
+                        },
+                        {
+                            "color": "#B5092E",
+                            "id": "N\u00b0110",
+                            "name": "\u9650\u5b9a\u8272"
+                        },
+                        {
+                            "color": "#9C152A",
+                            "id": "N\u00b0119",
+                            "name": "\u9650\u5b9a\u8272"
+                        }
+                    ]
+                },
+                {
+                    "name": "\u9ed1\u66dc\u94bb\u9650\u5b9a\u65b9\u7ba1",
+                    "lipsticks": [
+                        {
+                            "color": "#DD3011",
+                            "id": "N\u00b0124",
+                            "name": "\u6a58\u7ea2\u8840\u6a59"
+                        },
+                        {
+                            "color": "#92041C",
+                            "id": "N\u00b0126",
+                            "name": "\u725b\u8840\u7ea2\u5b9d\u77f3"
+                        },
+                        {
+                            "color": "#C20619",
+                            "id": "N\u00b0122",
+                            "name": "\u6a31\u6843\u739b\u7459\u7ea2"
+                        }
+                    ]
+                },
+                {
+                    "name": "\u9ed1\u7ba1\u5507\u91c9",
+                    "lipsticks": [
+                        {
+                            "color": "#882C24",
+                            "id": "N\u00b0416",
+                            "name": "\u756a\u8304\u7ea2"
+                        },
+                        {
+                            "color": "#6A2B26",
+                            "id": "N\u00b0420",
+                            "name": "\u70ed\u8fa3\u9707\u6151"
+                        },
+                        {
+                            "color": "#B3060F",
+                            "id": "N\u00b0425",
+                            "name": "\u8d64\u7ea2\u5360\u6709"
+                        },
+                        {
+                            "color": "#A20736",
+                            "id": "N\u00b0401",
+                            "name": "\u8f66\u5398\u5b50\u8272"
+                        },
+                        {
+                            "color": "#CB0A3C",
+                            "id": "N\u00b0402",
+                            "name": "\u82f9\u679c\u7ea2"
+                        },
+                        {
+                            "color": "#DE4F3F",
+                            "id": "N\u00b0406",
+                            "name": "\u5357\u74dc\u6a59"
+                        },
+                        {
+                            "color": "#D56379",
+                            "id": "N\u00b0407",
+                            "name": "\u73ab\u7470\u8c46\u6c99\u8272"
+                        },
+                        {
+                            "color": "#B41B3D",
+                            "id": "N\u00b0409",
+                            "name": "\u6885\u5b50\u6d46\u679c\u8272"
+                        },
+                        {
+                            "color": "#D72B26",
+                            "id": "N\u00b0411",
+                            "name": "\u6b63\u6a58\u8272"
+                        },
+                        {
+                            "color": "#CB555D",
+                            "id": "N\u00b0412",
+                            "name": "\u73ca\u745a\u7c89"
+                        },
+                        {
+                            "color": "#994C4F",
+                            "id": "N\u00b0419",
+                            "name": "\u871c\u6843\u7ea2"
+                        },
+                        {
+                            "color": "#B51524",
+                            "id": "N\u00b0422",
+                            "name": "\u8d64\u7ea2\u8ff7\u604b"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "香奈儿可可小姐",
+            "series": [
+                {
+                    "name": "唇膏水亮",
+                    "lipsticks": [
+                        {
+                            "id": "69",
+                            "color": "#F17365",
+                            "name": "传情"
+                        },
+                        {
+                            "id": "46",
+                            "color": "#E87268",
+                            "name": "自由"
+                        },
+                        {
+                            "id": "122",
+                            "color": "#EA4D4A",
+                            "name": "CORAIL RADIEUX"
+                        },
+                        {
+                            "id": "97",
+                            "color": "#D53D49",
+                            "name": "洒脱"
+                        },
+                        {
+                            "id": "44",
+                            "color": "#FD4334",
+                            "name": "水漾纱丽"
+                        },
+                        {
+                            "id": "507",
+                            "color": "#E94648",
+                            "name": "倔强"
+                        },
+                        {
+                            "id": "114",
+                            "color": "#FF3220",
+                            "name": "SHIPSHAPE"
+                        },
+                        {
+                            "id": "91",
+                            "color": "#C12A33",
+                            "name": "波希米亚"
+                        },
+                        {
+                            "id": "84",
+                            "color": "#CE1220",
+                            "name": "对白"
+                        },
+                        {
+                            "id": "57",
+                            "color": "#EB6F79",
+                            "name": "冒险"
+                        },
+                        {
+                            "id": "116",
+                            "color": "#EC5193",
+                            "name": "MIGHTY"
+                        },
+                        {
+                            "id": "54",
+                            "color": "#D1918D",
+                            "name": "卡柏男孩"
+                        },
+                        {
+                            "id": "79",
+                            "color": "#E86A75",
+                            "name": "传奇"
+                        },
+                        {
+                            "id": "497",
+                            "color": "#ED5A5E",
+                            "name": "勇敢"
+                        },
+                        {
+                            "id": "132",
+                            "color": "#E93A5B",
+                            "name": "ROSE RAVISSANT"
+                        },
+                        {
+                            "id": "87",
+                            "color": "#F8657F",
+                            "name": "约会"
+                        },
+                        {
+                            "id": "55",
+                            "color": "#F14C77",
+                            "name": "浪漫爱情"
+                        },
+                        {
+                            "id": "118",
+                            "color": "#EB2755",
+                            "name": "ENERGY"
+                        },
+                        {
+                            "id": "62",
+                            "color": "#E12948",
+                            "name": "蒙特卡罗"
+                        },
+                        {
+                            "id": "134",
+                            "color": "#E7394A",
+                            "name": "RENOUVEAU"
+                        },
+                        {
+                            "id": "98",
+                            "color": "#CC4D68",
+                            "name": "率真"
+                        },
+                        {
+                            "id": "60",
+                            "color": "#BB395F",
+                            "name": "安蒂岗妮"
+                        },
+                        {
+                            "id": "61",
+                            "color": "#C54463",
+                            "name": "幸福时光"
+                        }
+                    ]
+                },
+                {
+                    "name": "炫亮魅力唇膏",
+                    "lipsticks": [
+                        {
+                            "id": "90",
+                            "color": "#FC6E48",
+                            "name": "活泼"
+                        },
+                        {
+                            "id": "96",
+                            "color": "#FA421C",
+                            "name": "古灵精怪"
+                        },
+                        {
+                            "id": "182",
+                            "color": "#E02E20",
+                            "name": "VIBRANTE"
+                        },
+                        {
+                            "id": "152",
+                            "color": "#E82F2C",
+                            "name": "隐约"
+                        },
+                        {
+                            "id": "172",
+                            "color": "#E40021",
+                            "name": "ROUGE REBELLE"
+                        },
+                        {
+                            "id": "135",
+                            "color": "#99413D",
+                            "name": "谜情"
+                        },
+                        {
+                            "id": "99",
+                            "color": "#8A010D",
+                            "name": "海盗"
+                        },
+                        {
+                            "id": "176",
+                            "color": "#A80D1F",
+                            "name": "INDÉPENDANTE"
+                        },
+                        {
+                            "id": "169",
+                            "color": "#8E2622",
+                            "name": "ROUGE TENTATION"
+                        },
+                        {
+                            "id": "91",
+                            "color": "#E45661",
+                            "name": "吸引力"
+                        },
+                        {
+                            "id": "179",
+                            "color": "#ED6160",
+                            "name": "LUMINOUS"
+                        },
+                        {
+                            "id": "94",
+                            "color": "#FC3E6E",
+                            "name": "着迷"
+                        },
+                        {
+                            "id": "138",
+                            "color": "#D93E5E",
+                            "name": "激昂"
+                        },
+                        {
+                            "id": "136",
+                            "color": "#EF4246",
+                            "name": "悠扬"
+                        },
+                        {
+                            "id": "178",
+                            "color": "#BF5363",
+                            "name": "NEW PRODIGIOUS"
+                        },
+                        {
+                            "id": "158",
+                            "color": "#B24957",
+                            "name": "VIREVOLTANTE"
+                        },
+                        {
+                            "id": "93",
+                            "color": "#CD0043",
+                            "name": "兴奋"
+                        },
+                        {
+                            "id": "165",
+                            "color": "#C82C40",
+                            "name": "ÉBLOUISSANTE"
+                        },
+                        {
+                            "id": "184",
+                            "color": "#C80F2E",
+                            "name": "INCANTEVOLE"
+                        },
+                        {
+                            "id": "102",
+                            "color": "#B20032",
+                            "name": "悸动"
+                        }
+                    ]
+                },
+                {
+                    "name": "炫亮魅力唇膏",
+                    "lipsticks": [
+                        {
+                            "id": "90",
+                            "color": "#E1527E",
+                            "name": "IMAGINATION"
+                        }
+                    ]
+                },
+                {
+                    "name": "炫亮魅力唇膏丝绒",
+                    "lipsticks": [
+                        {
+                            "id": "65",
+                            "color": "#E17062",
+                            "name": "L'ARISTOCRATICA"
+                        },
+                        {
+                            "id": "64",
+                            "color": "#E84632",
+                            "name": "FIRST LIGHT"
+                        },
+                        {
+                            "id": "57",
+                            "color": "#BE2B24",
+                            "name": "ROUGE FEU"
+                        },
+                        {
+                            "id": "66",
+                            "color": "#E1112A",
+                            "name": "L'INDOMABILE"
+                        },
+                        {
+                            "id": "51",
+                            "color": "#9E333D",
+                            "name": "震撼"
+                        },
+                        {
+                            "id": "56",
+                            "color": "#B23030",
+                            "name": "ROUGE CHARNEL"
+                        },
+                        {
+                            "id": "38",
+                            "color": "#892833",
+                            "name": "迷惑"
+                        },
+                        {
+                            "id": "58",
+                            "color": "#822E2E",
+                            "name": "ROUGE VIE"
+                        },
+                        {
+                            "id": "63",
+                            "color": "#802932",
+                            "name": "NIGHTFALL"
+                        },
+                        {
+                            "id": "61",
+                            "color": "#EC7879",
+                            "name": "LA SECRÈTE"
+                        },
+                        {
+                            "id": "42",
+                            "color": "#FE697F",
+                            "name": "显眼"
+                        },
+                        {
+                            "id": "43",
+                            "color": "#FA5059",
+                            "name": "亲爱"
+                        },
+                        {
+                            "id": "46",
+                            "color": "#C92D38",
+                            "name": "慧黠"
+                        },
+                        {
+                            "id": "37",
+                            "color": "#C43759",
+                            "name": "纵情"
+                        },
+                        {
+                            "id": "44",
+                            "color": "#F06FA5",
+                            "name": "歌剧名伶"
+                        },
+                        {
+                            "id": "50",
+                            "color": "#9F2F56",
+                            "name": "浪漫幻想"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Dior迪奥",
+            "series": [
+                {
+                    "name": "\u70c8\u7130\u84dd\u91d1[\u7ea2\u7ba1]\u6db2\u5507\u818f",
+                    "lipsticks": [
+                        {
+                            "color": "#DD5445",
+                            "id": "539",
+                            "name": "\u5a07\u67d4 "
+                        },
+                        {
+                            "color": "#E66674",
+                            "id": "559",
+                            "name": "\u5fc3\u52a8 "
+                        },
+                        {
+                            "color": "#EA475C",
+                            "id": "569",
+                            "name": "\u7eee\u601d "
+                        },
+                        {
+                            "color": "#B53732",
+                            "id": "635",
+                            "name": "\u6b23\u559c "
+                        },
+                        {
+                            "color": "#CC5657",
+                            "id": "655",
+                            "name": "\u7f8e\u68a6 "
+                        },
+                        {
+                            "color": "#C33A06",
+                            "id": "707",
+                            "name": "\u6781\u4e50 "
+                        },
+                        {
+                            "color": "#D0391E",
+                            "id": "749",
+                            "name": "\u6b22\u60a6 "
+                        },
+                        {
+                            "color": "#A54B50",
+                            "id": "786",
+                            "name": "\u7470\u4e3d "
+                        },
+                        {
+                            "color": "#C05E55",
+                            "id": "808",
+                            "name": "\u7231\u629a "
+                        },
+                        {
+                            "color": "#A3171D",
+                            "id": "860",
+                            "name": "\u6311\u9017 "
+                        },
+                        {
+                            "color": "#901F1B",
+                            "id": "866",
+                            "name": "\u6d6a\u6f2b "
+                        },
+                        {
+                            "color": "#7D181F",
+                            "id": "966",
+                            "name": "\u6b32\u671b "
+                        },
+                        {
+                            "color": "#802229",
+                            "id": "975",
+                            "name": "\u4f0a\u7538 "
+                        },
+                        {
+                            "color": "#7B2434",
+                            "id": "989",
+                            "name": "\u75f4\u8ff7 "
+                        },
+                        {
+                            "color": "#CB040A",
+                            "id": "999",
+                            "name": "\u76db\u653e "
+                        }
+                    ]
+                },
+                {
+                    "name": "\u70c8\u7130\u84dd\u91d1[\u7ea2\u7ba1]\u82b1\u82af\u5507\u818f",
+                    "lipsticks": [
+                        {
+                            "color": "#DD614A",
+                            "id": "168",
+                            "name": "\u5a07\u67d4 "
+                        },
+                        {
+                            "color": "#D8645D",
+                            "id": "455",
+                            "name": "\u7eaf\u771f "
+                        },
+                        {
+                            "color": "#CC6F6C",
+                            "id": "480",
+                            "name": "\u6e29\u67d4 "
+                        },
+                        {
+                            "color": "#B72327",
+                            "id": "635",
+                            "name": "\u6b23\u559c "
+                        },
+                        {
+                            "color": "#CD4629",
+                            "id": "707",
+                            "name": "\u6781\u4e50 "
+                        },
+                        {
+                            "color": "#EA3D35",
+                            "id": "749",
+                            "name": "\u6b22\u60a6 "
+                        },
+                        {
+                            "color": "#CC3F4B",
+                            "id": "750",
+                            "name": "\u7efd\u653e "
+                        },
+                        {
+                            "color": "#D1544F",
+                            "id": "808",
+                            "name": "\u7231\u629a "
+                        },
+                        {
+                            "color": "#854848",
+                            "id": "829",
+                            "name": "\u7981\u5fcc "
+                        },
+                        {
+                            "color": "#A54D4A",
+                            "id": "848",
+                            "name": "\u8033\u8bed "
+                        },
+                        {
+                            "color": "#D11738",
+                            "id": "866",
+                            "name": "\u6d6a\u6f2b "
+                        },
+                        {
+                            "color": "#BA1A45",
+                            "id": "880",
+                            "name": "\u59a9\u5a9a "
+                        },
+                        {
+                            "color": "#B1263A",
+                            "id": "966",
+                            "name": "\u6b32\u671b "
+                        },
+                        {
+                            "color": "#822740",
+                            "id": "986",
+                            "name": "\u75f4\u8ff7 "
+                        },
+                        {
+                            "color": "#C81118",
+                            "id": "999",
+                            "name": "\u76db\u653e "
+                        }
+                    ]
+                },
+                {
+                    "name": "\u70c8\u7130\u84dd\u91d1\u5507\u818f",
+                    "lipsticks": [
+                        {
+                            "color": "#C32F3F",
+                            "id": "666",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#F08182",
+                            "id": "576",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#EF7B6B",
+                            "id": "343",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#EA5156",
+                            "id": "642",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#E83F4A",
+                            "id": "028",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#E84618",
+                            "id": "643",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#E52F31",
+                            "id": "756",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#E4003E",
+                            "id": "520",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#E1244B",
+                            "id": "775",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#D91920",
+                            "id": "080",
+                            "name": "\u5fae\u7b11\u6b63\u7ea2 "
+                        },
+                        {
+                            "color": "#A82628",
+                            "id": "999",
+                            "name": "\u91d1\u5c5e\u5149 "
+                        },
+                        {
+                            "color": "#B62631",
+                            "id": "856",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#BE030E",
+                            "id": "999",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#CC424D",
+                            "id": "999",
+                            "name": "\u4f20\u5947\u7ea2\u5507\u54d1\u5149 "
+                        },
+                        {
+                            "color": "#CC4A6B",
+                            "id": "678",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#E40068",
+                            "id": "047",
+                            "name": "\u8fea\u5965\u5c0f\u59d0 "
+                        },
+                        {
+                            "color": "#CB7A84",
+                            "id": "772",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#E96C81",
+                            "id": "771",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#ED6C7E",
+                            "id": "652",
+                            "name": "\u73ca\u745a "
+                        },
+                        {
+                            "color": "#EA5069",
+                            "id": "567",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#D0546B",
+                            "id": "663",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#D36179",
+                            "id": "060",
+                            "name": "\u9996\u6620\u793c "
+                        },
+                        {
+                            "color": "#DB7096",
+                            "id": "277",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#E46177",
+                            "id": "351",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#D1546E",
+                            "id": "459",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#BD5154",
+                            "id": "665",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#DC002C",
+                            "id": "746",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#E0262F",
+                            "id": "844",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#EB5959",
+                            "id": "888",
+                            "name": "none"
+                        }
+                    ]
+                },
+                {
+                    "name": "\u70c8\u7130\u84dd\u91d1\u631a\u7ea2\u5507\u818f",
+                    "lipsticks": [
+                        {
+                            "color": "#D75352",
+                            "id": "450",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#C25058",
+                            "id": "485",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#E54453",
+                            "id": "555",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#E04320",
+                            "id": "545",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#D80D09",
+                            "id": "777",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#DD1C37",
+                            "id": "651",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#E1143E",
+                            "id": "770",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#E01849",
+                            "id": "660",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#C7143C",
+                            "id": "763",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#BD0A0E",
+                            "id": "999",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#B71F14",
+                            "id": "436",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#AC1826",
+                            "id": "863",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#A42A25",
+                            "id": "641",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#9D2929",
+                            "id": "851",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#9C4848",
+                            "id": "325",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#99444C",
+                            "id": "587",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#B11D71",
+                            "id": "755",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#9E1B4E",
+                            "id": "870",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#82262E",
+                            "id": "843",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#631A21",
+                            "id": "883",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#030001",
+                            "id": "111",
+                            "name": "none"
+                        }
+                    ]
+                },
+                {
+                    "name": "\u9b45\u60d1\u5507\u5f69",
+                    "lipsticks": [
+                        {
+                            "color": "#D875D2",
+                            "id": "092",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#F0889D",
+                            "id": "553",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#EE8890",
+                            "id": "583",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#E14148",
+                            "id": "643",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#EC7A86",
+                            "id": "653",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#DF6C73",
+                            "id": "659",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#DF445B",
+                            "id": "662",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#DB2B5D",
+                            "id": "765",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#EA466E",
+                            "id": "773",
+                            "name": "none"
+                        }
+                    ]
+                },
+                {
+                    "name": "\u9b45\u60d1\u661f\u8000\u5507\u818f",
+                    "lipsticks": [
+                        {
+                            "color": "#EE7968",
+                            "id": "125",
+                            "name": "\u6708\u5149 "
+                        },
+                        {
+                            "color": "#BB636A",
+                            "id": "260",
+                            "name": "\u661f\u5e7b "
+                        },
+                        {
+                            "color": "#E4615B",
+                            "id": "352",
+                            "name": "\u94f6\u6cb3 "
+                        },
+                        {
+                            "color": "#CC6057",
+                            "id": "439",
+                            "name": "\u6ee1\u6708 "
+                        },
+                        {
+                            "color": "#A1605C",
+                            "id": "535",
+                            "name": "\u661f\u68a6 "
+                        },
+                        {
+                            "color": "#E52A3E",
+                            "id": "536",
+                            "name": "\u8000\u5e78\u8fd0 "
+                        },
+                        {
+                            "color": "#E7364F",
+                            "id": "554",
+                            "name": "\u6052\u661f "
+                        },
+                        {
+                            "color": "#DD5367",
+                            "id": "571",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#D83951",
+                            "id": "578",
+                            "name": "\u661f\u8bed "
+                        },
+                        {
+                            "color": "#CF283C",
+                            "id": "579",
+                            "name": "\u661f\u613f "
+                        },
+                        {
+                            "color": "#D07DA9",
+                            "id": "595",
+                            "name": "\u661f\u6655 "
+                        },
+                        {
+                            "color": "#E93D3B",
+                            "id": "639",
+                            "name": "\u661f\u6cb3 "
+                        },
+                        {
+                            "color": "#E96B61",
+                            "id": "647",
+                            "name": "\u661f\u8292 "
+                        },
+                        {
+                            "color": "#D24D41",
+                            "id": "649",
+                            "name": "\u661f\u5c18 "
+                        },
+                        {
+                            "color": "#E94C58",
+                            "id": "662",
+                            "name": "\u661f\u5ea7 "
+                        },
+                        {
+                            "color": "#B54651",
+                            "id": "667",
+                            "name": "\u6d41\u661f "
+                        },
+                        {
+                            "color": "#E94141",
+                            "id": "673",
+                            "name": "\u8000\u8ff7\u4eba "
+                        },
+                        {
+                            "color": "#CE172E",
+                            "id": "753",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#BF1E47",
+                            "id": "759",
+                            "name": "\u661f\u5149 "
+                        },
+                        {
+                            "color": "#9F2F47",
+                            "id": "769",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#A2151E",
+                            "id": "859",
+                            "name": "\u661f\u9645 "
+                        },
+                        {
+                            "color": "#D62666",
+                            "id": "863",
+                            "name": "\u661f\u7235 "
+                        },
+                        {
+                            "color": "#77192B",
+                            "id": "869",
+                            "name": "\u5854\u7f57\u661f "
+                        },
+                        {
+                            "color": "#6D2548",
+                            "id": "881",
+                            "name": "\u6ce2\u661f\u7c73\u4e9a "
+                        },
+                        {
+                            "color": "#752A48",
+                            "id": "891",
+                            "name": "\u8000\u95ea\u4eae "
+                        },
+                        {
+                            "color": "#CC2456",
+                            "id": "976",
+                            "name": "\u8000\u8fea\u5965 "
+                        },
+                        {
+                            "color": "#751926",
+                            "id": "987",
+                            "name": "\u65b0\u6708 "
+                        }
+                    ]
+                },
+                {
+                    "name": "\u9b45\u60d1\u91c9\u5507\u818f",
+                    "lipsticks": [
+                        {
+                            "color": "#B95E59",
+                            "id": "320",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#AA4842",
+                            "id": "524",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#DE3847",
+                            "id": "584",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#E35656",
+                            "id": "650",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#EB636B",
+                            "id": "457",
+                            "name": "\u9e21\u5c3e\u9152 "
+                        },
+                        {
+                            "color": "#E53009",
+                            "id": "747",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#9E280E",
+                            "id": "847",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#E47082",
+                            "id": "550",
+                            "name": "\u5c0f\u5fc3\u8ba1 "
+                        },
+                        {
+                            "color": "#D21B46",
+                            "id": "764",
+                            "name": "none"
+                        },
+                        {
+                            "color": "#EA5344",
+                            "id": "554",
+                            "name": "\u65e5\u5149\u6d74 "
+                        },
+                        {
+                            "color": "#902215",
+                            "id": "740",
+                            "name": "\u53ef\u4e50\u90e8 "
+                        },
+                        {
+                            "color": "#E51E1A",
+                            "id": "744",
+                            "name": "\u82b1\u8774\u8776 "
+                        },
+                        {
+                            "color": "#A01314",
+                            "id": "857",
+                            "name": "\u597d\u83b1\u575e\u5927\u5496 "
+                        },
+                        {
+                            "color": "#901A32",
+                            "id": "867",
+                            "name": "\u7ea2\u9152 "
+                        },
+                        {
+                            "color": "#C4032B",
+                            "id": "877",
+                            "name": "\u7ed9\u6211\u8fea\u5965 "
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Maybelline美宝莲",
+            "series": [
+                {
+                    "name": "\u7edd\u8272\u6301\u4e45\u5507\u818f \u54d1\u5149\u7cfb\u5217",
+                    "lipsticks": [
+                        {
+                            "color": "#B01F3E",
+                            "id": "-1",
+                            "name": "\u4e1d\u7ed2\u54d1\u5149 803\u9713\u8679\u73ab\u7c89"
+                        },
+                        {
+                            "color": "#AC5A50",
+                            "id": "-1",
+                            "name": "\u96fe\u611f\u54d1\u5149 504\u66ae\u70df\u7c89"
+                        },
+                        {
+                            "color": "#F56669",
+                            "id": "-1",
+                            "name": "\u96fe\u611f\u54d1\u5149 505\u7eef\u7ea2\u8272"
+                        },
+                        {
+                            "color": "#D05E52",
+                            "id": "-1",
+                            "name": "\u96fe\u611f\u54d1\u5149 506\u70d8\u7119\u68d5"
+                        },
+                        {
+                            "color": "#DE3F4A",
+                            "id": "-1",
+                            "name": "\u4e1d\u7ed2\u54d1\u5149 601\u65af\u5609\u4e3d\u7ea2"
+                        },
+                        {
+                            "color": "#F24843",
+                            "id": "-1",
+                            "name": "\u4e1d\u7ed2\u54d1\u5149 602\u52c3\u826e\u7b2c\u9152\u7ea2"
+                        },
+                        {
+                            "color": "#C92E28",
+                            "id": "-1",
+                            "name": "\u4e1d\u7ed2\u54d1\u5149 603\u871c\u6e0d\u6a31\u6843"
+                        },
+                        {
+                            "color": "#CE566B",
+                            "id": "-1",
+                            "name": "\u96fe\u611f\u54d1\u5149 607\u8840\u6a59\u8272"
+                        },
+                        {
+                            "color": "#D75C50",
+                            "id": "-1",
+                            "name": "\u4e1d\u7ed2\u54d1\u5149 701\u5976\u6cb9\u6a58"
+                        },
+                        {
+                            "color": "#ED454D",
+                            "id": "-1",
+                            "name": "\u96fe\u611f\u54d1\u5149 704\u4eae\u773c\u6a59"
+                        },
+                        {
+                            "color": "#F26271",
+                            "id": "-1",
+                            "name": "\u4e1d\u7ed2\u54d1\u5149 802\u6df1\u6885\u5b50"
+                        },
+                        {
+                            "color": "#E76676",
+                            "id": "-1",
+                            "name": "\u96fe\u611f\u54d1\u5149 808\u6d46\u679c\u7ea2\u9152"
+                        },
+                        {
+                            "color": "#D15D71",
+                            "id": "-1",
+                            "name": "\u96fe\u611f\u54d1\u5149 809\u7425\u73c0\u73ab\u7470"
+                        },
+                        {
+                            "color": "#ED454D",
+                            "id": "-1",
+                            "name": "\u96fe\u611f\u54d1\u5149 813\u73ab\u7470\u5c11\u5973"
+                        },
+                        {
+                            "color": "#AC4B4B",
+                            "id": "-1",
+                            "name": "\u96fe\u611f\u54d1\u5149 901\u6f6e\u9177\u84dd"
+                        },
+                        {
+                            "color": "#AC3B39",
+                            "id": "-1",
+                            "name": "\u4e1d\u7ed2\u54d1\u5149 500\u5e72\u67ab\u53f6"
+                        },
+                        {
+                            "color": "#B65254",
+                            "id": "-1",
+                            "name": "\u96fe\u611f\u54d1\u5149 503\u8089\u6842\u8c46\u6c99"
+                        },
+                        {
+                            "color": "#C93531",
+                            "id": "-1",
+                            "name": "\u4e1d\u7ed2\u54d1\u5149 604\u6731\u7802\u6a58"
+                        },
+                        {
+                            "color": "#E57980",
+                            "id": "-1",
+                            "name": "\u96fe\u611f\u54d1\u5149 605\u590d\u53e4\u7ea2\u4e1d\u7ed2"
+                        },
+                        {
+                            "color": "#AC3B39",
+                            "id": "-1",
+                            "name": "\u96fe\u611f\u54d1\u5149 606\u6b63\u5bab\u7ea2"
+                        },
+                        {
+                            "color": "#D32B35",
+                            "id": "-1",
+                            "name": "\u96fe\u611f\u54d1\u5149 608\u97ad\u70ae\u7ea2"
+                        },
+                        {
+                            "color": "#F65A56",
+                            "id": "-1",
+                            "name": "\u4e1d\u7ed2\u54d1\u5149 702\u5976\u6cb9\u80e1\u841d\u535c"
+                        }
+                    ]
+                },
+                {
+                    "name": "\u7edd\u8272\u6301\u4e45\u5507\u818f \u7f0e\u5149\u7cfb\u5217",
+                    "lipsticks": [
+                        {
+                            "color": "#CD2E3E",
+                            "id": "-1",
+                            "name": "\u7f0e\u5149 106\u7ea2\u4e2d\u8272"
+                        },
+                        {
+                            "color": "#ED4567",
+                            "id": "-1",
+                            "name": "\u7f0e\u5149 004\u592a\u5983\u62ff\u94c1"
+                        },
+                        {
+                            "color": "#DA6A6B",
+                            "id": "-1",
+                            "name": "\u7f0e\u5149 005\u871c\u6843\u8272"
+                        },
+                        {
+                            "color": "#F6406E",
+                            "id": "-1",
+                            "name": "\u7f0e\u5149 099\u604b\u7231\u6843\u82b1\u7c89"
+                        },
+                        {
+                            "color": "#F2313D",
+                            "id": "-1",
+                            "name": "\u7f0e\u5149 100\u5143\u6c14\u82f9\u679c\u7ea2"
+                        },
+                        {
+                            "color": "#BA4241",
+                            "id": "-1",
+                            "name": "\u7f0e\u5149 102\u8089\u6842\u73ab\u7470"
+                        },
+                        {
+                            "color": "#DA6A6B",
+                            "id": "-1",
+                            "name": "\u7f0e\u5149 005\u871c\u6843\u8272"
+                        },
+                        {
+                            "color": "#B24E57",
+                            "id": "-1",
+                            "name": "\u7f0e\u5149 168\u73ab\u7470\u8c46\u6c99"
+                        },
+                        {
+                            "color": "#E76676",
+                            "id": "-1",
+                            "name": "\u7f0e\u5149 180\u5143\u6c14\u6a31\u82b1\u7c89"
+                        },
+                        {
+                            "color": "#DF5858",
+                            "id": "-1",
+                            "name": "\u7f0e\u5149 201\u73ca\u745a\u5973\u795e"
+                        },
+                        {
+                            "color": "#FE4556",
+                            "id": "-1",
+                            "name": "\u7f0e\u5149 202\u7ea2\u6655\u897f\u67da"
+                        },
+                        {
+                            "color": "#C92E28",
+                            "id": "-1",
+                            "name": "\u7f0e\u5149 214\u7ea2\u8336\u751c\u9152"
+                        },
+                        {
+                            "color": "#ED4567",
+                            "id": "-1",
+                            "name": "\u7f0e\u5149 303\u8537\u8587\u6ce1\u6ce1"
+                        },
+                        {
+                            "color": "#A05963",
+                            "id": "-1",
+                            "name": "\u7f0e\u5149 305\u70df\u718f\u73ab\u7470"
+                        },
+                        {
+                            "color": "#FE767D",
+                            "id": "-1",
+                            "name": "\u7f0e\u5149 521\u897f\u67da\u73ca\u745a\u6a58"
+                        },
+                        {
+                            "color": "#E57980",
+                            "id": "-1",
+                            "name": "\u7f0e\u5149 555\u5e72\u71e5\u73ab\u7470"
+                        },
+                        {
+                            "color": "#EE346B",
+                            "id": "-1",
+                            "name": "\u7f0e\u5149 770\u544a\u767d\u73ab\u7ea2\u8272"
+                        },
+                        {
+                            "color": "#FD757A",
+                            "id": "-1",
+                            "name": "\u7f0e\u5149 \u5976\u6cb9\u674f\u5b50\u8272777"
+                        },
+                        {
+                            "color": "#C82D2E",
+                            "id": "-1",
+                            "name": "\u7f0e\u5149 917\u5e03\u9c81\u514b\u6797\u7ea2"
+                        },
+                        {
+                            "color": "#AC5A50",
+                            "id": "-1",
+                            "name": "\u7f0e\u5149 003\u6817\u5b50\u8272"
+                        },
+                        {
+                            "color": "#AB372E",
+                            "id": "-1",
+                            "name": "\u7f0e\u5149 006\u59dc\u997c\u7ea2\u8336"
+                        },
+                        {
+                            "color": "#BA4241",
+                            "id": "-1",
+                            "name": "\u7f0e\u5149 105\u67ab\u7cd6\u871c\u8336"
+                        },
+                        {
+                            "color": "#D92D2E",
+                            "id": "-1",
+                            "name": "\u7f0e\u5149 233\u9c9c\u756a\u8304"
+                        },
+                        {
+                            "color": "#DF5858",
+                            "id": "-1",
+                            "name": "\u7f0e\u5149 510\u871c\u67da\u8272"
+                        },
+                        {
+                            "color": "#B93B33",
+                            "id": "-1",
+                            "name": "\u7f0e\u5149 518\u7ecf\u5178\u67ab\u53f6"
+                        },
+                        {
+                            "color": "#9F3F3F",
+                            "id": "-1",
+                            "name": "\u7f0e\u5149 888\u73ab\u7470\u6df1\u8c46\u6c99"
+                        }
+                    ]
+                },
+                {
+                    "name": "\u7f8e\u5b9d\u83b2\u5de8\u6301\u8272 \u54d1\u5149\u6db2\u4f53\u5507\u818f",
+                    "lipsticks": [
+                        {
+                            "color": "#9E4958",
+                            "id": "-1",
+                            "name": "15 Lover \u6d53\u60c5"
+                        },
+                        {
+                            "color": "#9B1E32",
+                            "id": "-1",
+                            "name": "20 Pioneer \u52c7\u6c14"
+                        },
+                        {
+                            "color": "#E8106B",
+                            "id": "-1",
+                            "name": "30 Romantic \u70ed\u604b"
+                        },
+                        {
+                            "color": "#522228",
+                            "id": "-1",
+                            "name": "50 Voyager \u4fe1\u4ef0"
+                        },
+                        {
+                            "color": "#842E40",
+                            "id": "-1",
+                            "name": "80 Ruler \u6c14\u573a"
+                        },
+                        {
+                            "color": "#821732",
+                            "id": "115",
+                            "name": "115 \u521b\u4e16"
+                        },
+                        {
+                            "color": "#732F5F",
+                            "id": "120",
+                            "name": "120 \u9c9c\u6885\u5b50\u8272"
+                        },
+                        {
+                            "color": "#BC4924",
+                            "id": "135",
+                            "name": "135 \u6d41\u6d6a"
+                        },
+                        {
+                            "color": "#B03836",
+                            "id": "205",
+                            "name": "205 \u4e4c\u9f99\u871c\u6843\u8272"
+                        },
+                        {
+                            "color": "#963A48",
+                            "id": "225",
+                            "name": "225  \u73ab\u7470\u5976\u8336\u8272"
+                        },
+                        {
+                            "color": "#5D2140",
+                            "id": "230",
+                            "name": "230 \u8461\u8404\u6d46\u679c\u8272"
+                        },
+                        {
+                            "color": "#7E1612",
+                            "id": "117",
+                            "name": "117 \u91cd\u751f"
+                        },
+                        {
+                            "color": "#B31A21",
+                            "id": "118",
+                            "name": "118 \u70ed\u821e"
+                        },
+                        {
+                            "color": "#C45650",
+                            "id": "130",
+                            "name": "130 \u652f\u914d"
+                        },
+                        {
+                            "color": "#C25F59",
+                            "id": "210",
+                            "name": "210 \u5929\u8d4b"
+                        },
+                        {
+                            "color": "#AE0827",
+                            "id": "220",
+                            "name": "220 \u91ce\u5fc3"
+                        },
+                        {
+                            "color": "#852827",
+                            "id": "245",
+                            "name": "245 \u63a2\u7d22"
+                        }
+                    ]
+                },
+                {
+                    "name": "\u7f8e\u5b9d\u83b2\u7eb5\u60c5\u8000\u661f\u94bb\u7cfb\u5217\u5507\u818f",
+                    "lipsticks": [
+                        {
+                            "color": "#CD3232",
+                            "id": "-1",
+                            "name": "SRD55"
+                        },
+                        {
+                            "color": "#A5211A",
+                            "id": "-1",
+                            "name": "SRD56"
+                        },
+                        {
+                            "color": "#BE554C",
+                            "id": "-1",
+                            "name": "SNU58"
+                        },
+                        {
+                            "color": "#63000B",
+                            "id": "-1",
+                            "name": "SRD41"
+                        },
+                        {
+                            "color": "#90232E",
+                            "id": "-1",
+                            "name": "SRD43"
+                        },
+                        {
+                            "color": "#BD0831",
+                            "id": "-1",
+                            "name": "SRD45"
+                        },
+                        {
+                            "color": "#A62849",
+                            "id": "-1",
+                            "name": "SPK46"
+                        },
+                        {
+                            "color": "#D33060",
+                            "id": "-1",
+                            "name": "SPK47"
+                        },
+                        {
+                            "color": "#DC1635",
+                            "id": "-1",
+                            "name": "SOR52"
+                        },
+                        {
+                            "color": "#EF3F5D",
+                            "id": "-1",
+                            "name": "SOR53"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Givenchy",
+            "series": [
+                {
+                    "name": "\u7981\u5fcc\u4e4b\u543b\u6f06\u5149\u5507\u818f",
+                    "lipsticks": [
+                        {
+                            "color": "#C27E6F",
+                            "id": "N\u00b01",
+                            "name": "\u81ea\u7136\u88f8 "
+                        },
+                        {
+                            "color": "#C9816F",
+                            "id": "N\u00b02",
+                            "name": "\u6d45\u7c73\u6a58&nbsp; "
+                        },
+                        {
+                            "color": "#CB8399",
+                            "id": "N\u00b03",
+                            "name": "\u521d\u604b\u7c89&nbsp; "
+                        },
+                        {
+                            "color": "#B54849",
+                            "id": "N\u00b04",
+                            "name": "\u9b54\u529b\u7c89&nbsp; "
+                        },
+                        {
+                            "color": "#DD669A",
+                            "id": "N\u00b05",
+                            "name": "\u51b7\u8273\u7c89&nbsp; "
+                        },
+                        {
+                            "color": "#CC357A",
+                            "id": "N\u00b07",
+                            "name": "\u90a6\u5973\u90ce "
+                        },
+                        {
+                            "color": "#D24028",
+                            "id": "N\u00b08",
+                            "name": "\u8c03\u60c5\u6a58 "
+                        },
+                        {
+                            "color": "#DD4C50",
+                            "id": "N\u00b09",
+                            "name": "\u4fb5\u5360\u7ea2 "
+                        },
+                        {
+                            "color": "#D03C4A",
+                            "id": "N\u00b010",
+                            "name": "\u80ed\u8102\u7ea2 "
+                        },
+                        {
+                            "color": "#B73662",
+                            "id": "N\u00b012",
+                            "name": "\u751c\u6da9\u8393 "
+                        },
+                        {
+                            "color": "#CB6681",
+                            "id": "N\u00b013",
+                            "name": "\u8537\u8587\u6728 "
+                        },
+                        {
+                            "color": "#C65C77",
+                            "id": "N\u00b014",
+                            "name": "\u6a61\u76ae\u7ea2 "
+                        },
+                        {
+                            "color": "#A94C46",
+                            "id": "N\u00b015",
+                            "name": "\u9187\u6469\u5361 "
+                        },
+                        {
+                            "color": "#392B30",
+                            "id": "N\u00b016",
+                            "name": "\u9ed1\u73ab\u7470 "
+                        }
+                    ]
+                },
+                {
+                    "name": "\u7981\u5fcc\u4e4b\u543b\u9713\u8679\u5507\u818f",
+                    "lipsticks": [
+                        {
+                            "color": "#D64660",
+                            "id": "N\u00b013",
+                            "name": "\u7981\u5fcc\u7ea2 "
+                        },
+                        {
+                            "color": "#CD424E",
+                            "id": "N\u00b014",
+                            "name": "\u9b3c\u9b45\u7ea2 "
+                        },
+                        {
+                            "color": "#F25C4D",
+                            "id": "N\u00b015",
+                            "name": "\u591c\u5149\u6a58 "
+                        },
+                        {
+                            "color": "#DF5256",
+                            "id": "N\u00b016",
+                            "name": "\u6f6e\u5973\u7ea2 "
+                        },
+                        {
+                            "color": "#E17F79",
+                            "id": "N\u00b017",
+                            "name": "\u4e59\u5973\u7c89 "
+                        },
+                        {
+                            "color": "#D6787B",
+                            "id": "N\u00b018",
+                            "name": "\u7ae5\u8bdd\u7c89 "
+                        },
+                        {
+                            "color": "#E18588",
+                            "id": "N\u00b019",
+                            "name": "\u6cbb\u6108\u7c89 "
+                        },
+                        {
+                            "color": "#E17EAF",
+                            "id": "N\u00b020",
+                            "name": "\u841d\u8389\u7c89 "
+                        },
+                        {
+                            "color": "#E587AC",
+                            "id": "N\u00b021",
+                            "name": "\u5143\u6c14\u7c89 "
+                        },
+                        {
+                            "color": "#EE6CAB",
+                            "id": "N\u00b022",
+                            "name": "\u7cbe\u7075\u7c89 "
+                        },
+                        {
+                            "color": "#D7718F",
+                            "id": "N\u00b023",
+                            "name": "\u9b54\u5973\u7c89 "
+                        },
+                        {
+                            "color": "#CF3FA3",
+                            "id": "N\u00b024",
+                            "name": "\u50b2\u5a07\u7c89 "
+                        }
+                    ]
+                },
+                {
+                    "name": "\u9ad8\u5b9a\u9999\u69ad\u4e1d\u7f0e\u5507\u818f",
+                    "lipsticks": [
+                        {
+                            "color": "#C8766E",
+                            "id": "N\u00b0103",
+                            "name": "\u6696\u610f\u88f8\u8272&nbsp; "
+                        },
+                        {
+                            "color": "#B96966",
+                            "id": "N\u00b0104",
+                            "name": "\u82b1\u6f3e\u88f8\u8272&nbsp; "
+                        },
+                        {
+                            "color": "#A65960",
+                            "id": "N\u00b0105",
+                            "name": "&amp;nbsp; "
+                        },
+                        {
+                            "color": "#B75B5B",
+                            "id": "N\u00b0106",
+                            "name": "&amp;nbsp; "
+                        },
+                        {
+                            "color": "#EF6D76",
+                            "id": "N\u00b0201",
+                            "name": "\u590d\u53e4\u88f8\u8272&nbsp; "
+                        },
+                        {
+                            "color": "#D96C90",
+                            "id": "N\u00b0202",
+                            "name": "\u68a6\u5e7b\u73ab\u7470 "
+                        },
+                        {
+                            "color": "#D75974",
+                            "id": "N\u00b0203",
+                            "name": "\u751c\u5fc3\u73ab\u7470 "
+                        },
+                        {
+                            "color": "#D63B6D",
+                            "id": "N\u00b0204",
+                            "name": "\u516c\u4e3b\u73ab\u7470 "
+                        },
+                        {
+                            "color": "#D63B6D",
+                            "id": "N\u00b0205",
+                            "name": "Violine Inspiration "
+                        },
+                        {
+                            "color": "#CD3449",
+                            "id": "N\u00b0206",
+                            "name": "\u73ca\u745a\u73ab\u7470 "
+                        },
+                        {
+                            "color": "#CF252B",
+                            "id": "N\u00b0301",
+                            "name": "\u6731\u7802\u7ea2 "
+                        },
+                        {
+                            "color": "#BA2E35",
+                            "id": "N\u00b0302",
+                            "name": "\u80ed\u8102\u7ea2 "
+                        },
+                        {
+                            "color": "#C65377",
+                            "id": "N\u00b0303",
+                            "name": "Framboise Griff\u00e9e "
+                        },
+                        {
+                            "color": "#7D424A",
+                            "id": "N\u00b0304",
+                            "name": "\u6469\u5361\u7ea2 "
+                        }
+                    ]
+                },
+                {
+                    "name": "\u9ad8\u5b9a\u9999\u69ad\u54d1\u5149\u5507\u91c9",
+                    "lipsticks": [
+                        {
+                            "color": "#CC5F62",
+                            "id": "N\u00b0101",
+                            "name": "\u88f8\u7c89\u8c46\u6c99 "
+                        },
+                        {
+                            "color": "#C03144",
+                            "id": "N\u00b0107",
+                            "name": "\u70df\u7d2b\u8c46\u6c99 "
+                        },
+                        {
+                            "color": "#E83650",
+                            "id": "N\u00b0202",
+                            "name": "\u82b1\u74e3\u7c89 "
+                        },
+                        {
+                            "color": "#EA4F7B",
+                            "id": "N\u00b0203",
+                            "name": "\u5c11\u5973\u7c89 "
+                        },
+                        {
+                            "color": "#C40359",
+                            "id": "N\u00b0204",
+                            "name": "\u751c\u73ab\u7c89 "
+                        },
+                        {
+                            "color": "#F54854",
+                            "id": "N\u00b0205",
+                            "name": "\u73ca\u745a\u6a58 "
+                        },
+                        {
+                            "color": "#EF3B44",
+                            "id": "N\u00b0306",
+                            "name": "\u897f\u67da\u7ea2 "
+                        },
+                        {
+                            "color": "#F42862",
+                            "id": "N\u00b0308",
+                            "name": "\u51b7\u73ab\u7ea2 "
+                        },
+                        {
+                            "color": "#D31D3A",
+                            "id": "N\u00b0309",
+                            "name": "\u6cd5\u5f0f\u7ea2 "
+                        },
+                        {
+                            "color": "#A22954",
+                            "id": "N\u00b0410",
+                            "name": "\u6d46\u8393\u7d2b "
+                        },
+                        {
+                            "color": "#740036",
+                            "id": "N\u00b0411",
+                            "name": "\u6a31\u6843\u7d2b "
+                        },
+                        {
+                            "color": "#730306",
+                            "id": "N\u00b0412",
+                            "name": "\u67ab\u53f6\u7d2b "
+                        }
+                    ]
+                },
+                {
+                    "name": "\u9ad8\u5b9a\u9999\u69ad\u5507\u818f",
+                    "lipsticks": [
+                        {
+                            "color": "#D67D6F",
+                            "id": "N\u00b0100",
+                            "name": "Beige Caraman "
+                        },
+                        {
+                            "color": "#E1766D",
+                            "id": "N\u00b0102",
+                            "name": "Beige Plume "
+                        },
+                        {
+                            "color": "#CC5C5C",
+                            "id": "N\u00b0103",
+                            "name": "Brun Cr\u00e9ateur "
+                        },
+                        {
+                            "color": "#BF444F",
+                            "id": "N\u00b0105",
+                            "name": "Brun Vintage "
+                        },
+                        {
+                            "color": "#C16764",
+                            "id": "N\u00b0106",
+                            "name": "Nude Guipure "
+                        },
+                        {
+                            "color": "#C37071",
+                            "id": "N\u00b0110",
+                            "name": "Rose Diaphane "
+                        },
+                        {
+                            "color": "#D75A65",
+                            "id": "N\u00b0201",
+                            "name": "Rose Taffetas "
+                        },
+                        {
+                            "color": "#EC6071",
+                            "id": "N\u00b0202",
+                            "name": "Rose Dressing "
+                        },
+                        {
+                            "color": "#CA3B52",
+                            "id": "N\u00b0204",
+                            "name": "Rose Boudoir "
+                        },
+                        {
+                            "color": "#D6115E",
+                            "id": "N\u00b0205",
+                            "name": "Fuchsia Irr\u00e9sistible "
+                        },
+                        {
+                            "color": "#E83E81",
+                            "id": "N\u00b0209",
+                            "name": "Rose Perfecto "
+                        },
+                        {
+                            "color": "#8A2650",
+                            "id": "N\u00b0218",
+                            "name": "Violet Audacieux "
+                        },
+                        {
+                            "color": "#E63F5D",
+                            "id": "N\u00b0301",
+                            "name": "Magnolia Organza "
+                        },
+                        {
+                            "color": "#E64A65",
+                            "id": "N\u00b0302",
+                            "name": "Hibiscus Exclusif "
+                        },
+                        {
+                            "color": "#E04259",
+                            "id": "N\u00b0303",
+                            "name": "Corail D\u00e9collet\u00e9 "
+                        },
+                        {
+                            "color": "#E74146",
+                            "id": "N\u00b0304",
+                            "name": "Mandarine Bol\u00e9ro "
+                        },
+                        {
+                            "color": "#E51945",
+                            "id": "N\u00b0305",
+                            "name": "Rouge Eg\u00e9rie "
+                        },
+                        {
+                            "color": "#840414",
+                            "id": "N\u00b0307",
+                            "name": "Grenat Initi\u00e9 "
+                        },
+                        {
+                            "color": "#B31144",
+                            "id": "N\u00b0315",
+                            "name": "Framboise Velours "
+                        },
+                        {
+                            "color": "#E73E1E",
+                            "id": "N\u00b0316",
+                            "name": "Orange Absolu "
+                        },
+                        {
+                            "color": "#E94A2B",
+                            "id": "N\u00b0317",
+                            "name": "Corail Signature "
+                        },
+                        {
+                            "color": "#CB3163",
+                            "id": "N\u00b0323",
+                            "name": "Framboise Couture "
+                        },
+                        {
+                            "color": "#EA525F",
+                            "id": "N\u00b0324",
+                            "name": "Corail Backstage "
+                        },
+                        {
+                            "color": "#E20432",
+                            "id": "N\u00b0325",
+                            "name": "Rouge F\u00e9tiche "
+                        },
+                        {
+                            "color": "#7F071F",
+                            "id": "N\u00b0326",
+                            "name": "Pourpre Edgy "
+                        },
+                        {
+                            "color": "#CE1C27",
+                            "id": "N\u00b0333",
+                            "name": "L'Interdit "
+                        },
+                        {
+                            "color": "#9B1728",
+                            "id": "N\u00b0334",
+                            "name": "Grenat Volontaire "
+                        }
+                    ]
+                },
+                {
+                    "name": "\u9ad8\u5b9a\u9999\u69ad\u661f\u94bb\u5507\u818f",
+                    "lipsticks": [
+                        {
+                            "color": "#AA8993",
+                            "id": "N\u00b01",
+                            "name": "Night in Light "
+                        },
+                        {
+                            "color": "#D48290",
+                            "id": "N\u00b02",
+                            "name": "Night in Red "
+                        },
+                        {
+                            "color": "#C7938D",
+                            "id": "N\u00b03",
+                            "name": "Night in Gold "
+                        },
+                        {
+                            "color": "#9C8CB0",
+                            "id": "N\u00b04",
+                            "name": "Night in Blue "
+                        },
+                        {
+                            "color": "#C86F92",
+                            "id": "N\u00b05",
+                            "name": "Night in Plum "
+                        },
+                        {
+                            "color": "#B2959A",
+                            "id": "N\u00b06",
+                            "name": "Night in Gray "
+                        }
+                    ]
+                },
+                {
+                    "name": "\u9ad8\u5b9a\u9999\u69ad\u7ea2\u4e1d\u7ed2\u5507\u818f",
+                    "lipsticks": [
+                        {
+                            "color": "#CA7B77",
+                            "id": "N\u00b010",
+                            "name": "Beige Nu "
+                        },
+                        {
+                            "color": "#B7506F",
+                            "id": "N\u00b014",
+                            "name": "Rose Bois\u00e9 "
+                        },
+                        {
+                            "color": "#D92356",
+                            "id": "N\u00b025",
+                            "name": "Fuchsia Vibrant "
+                        },
+                        {
+                            "color": "#EA4B50",
+                            "id": "N\u00b033",
+                            "name": "Orange Sable "
+                        },
+                        {
+                            "color": "#AB1616",
+                            "id": "N\u00b037",
+                            "name": "Rouge Grain\u00e9 "
+                        },
+                        {
+                            "color": "#9B2C45",
+                            "id": "N\u00b042",
+                            "name": "Violet Velours "
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

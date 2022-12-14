@@ -1,0 +1,42 @@
+ <div class="shade-picker-dropdown hidden">
+                <div class="shade-picker-dropdown__colors-mask">
+                  <select id="js-shade-picker-dropdown--product-full" class="shade-picker-dropdown__colors no-js">
+                      " data-product='{"prodid":"PROD36169","sku":"SKU10122"}' data-color="#973335">Dare You Ï¸ÉÁºì±¦Ê¯</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU63769"}' data-color="#e32929">Sweet Sakura Õ¶ÄÐ²ÝÝ®ºì</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU63768"}' data-color="#e94633">Dozen Carnations ½õÀðÉ«</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU9536"}' data-color="#a51629">Brave Red Ë®ÈóÓ£ÌÒºì</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU9533"}' data-color="#803450">Party Line</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU9531"}' data-color="#eb666d">Crosswires</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU9535"}' data-color="#cf6067">On Hold</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU63767"}' data-color="#f0525c">Pretty Boy</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU10678"}' data-color="#a8676d">Cr¨¨me In Your Coffee</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU63763"}' data-color="#e97d6e">Nippon</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU9525"}' data-color="#c2898a">Modesty</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU9532"}' data-color="#c16f8c">Hot Gossip</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU9529"}' data-color="#e85f82">Speak Louder</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU9530"}' data-color="#f88d80">Ravishing</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU42570"}' data-color="#e98484">Coral Bliss</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU42568"}' data-color="#c97d75">Shanghai Spice</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU42564"}' data-color="#ff6a97">Pink Pearl Pop</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU42565"}' data-color="#f2808c">Sunny Seoul</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU9524"}' data-color="#dfb3a6">Cr¨¨me d'Nude</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU9534"}' data-color="#5f363f">Hang-up</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU10677"}' data-color="#ba3a6d">Lickable</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU42566"}' data-color="#c7838b">Peach Blossom</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU9527"}' data-color="#f16f9f">Speed Dial</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU9528"}' data-color="#d37782">Fanfare</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU10675"}' data-color="#de9787">Shy Girl</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU10676"}' data-color="#d39697">Cr¨¨me Cup</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU42567"}' data-color="#d89688">Pure Zen</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU42569"}' data-color="#d8a195">Japanese Maple</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU42571"}' data-color="#ff713c">Saigon Summer</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU54097"}' data-color="#ff9782">Sweet &amp; Sour</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU63760"}' data-color="#e9616f">Little Buddha</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU63761"}' data-color="#f2668e">Star Magnolia</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU63762"}' data-color="#e04171">Pickled Plum</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU63764"}' data-color="#f28571">Koi Coral</option>
+                      " data-product='{"prodid":"PROD36169","sku":"SKU72547"}' data-color="#e4c1e2">Love &amp; Cherished</option>
+                  </select>
+                </div>
+              </div>
+      

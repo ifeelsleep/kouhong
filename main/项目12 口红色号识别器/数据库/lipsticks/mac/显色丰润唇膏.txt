@@ -1,0 +1,29 @@
+ <div class="shade-picker-dropdown hidden">
+                <div class="shade-picker-dropdown__colors-mask">
+                  <select id="js-shade-picker-dropdown--product-full" class="shade-picker-dropdown__colors no-js">
+                      " data-product='{"prodid":"PROD52598","sku":"SKU3175"}' data-color="#993f3f">Dubonnet 气质牛血色</option>
+                      " data-product='{"prodid":"PROD52598","sku":"SKU3190"}' data-color="#c06b6f">Brick-O-La 玫瑰豆沙色</option>
+                      " data-product='{"prodid":"PROD52598","sku":"SKU101730"}' data-color="#a24c4f">Smoked Almond</option>
+                      " data-product='{"prodid":"PROD52598","sku":"SKU3192"}' data-color="#d78080">Vegas Volt 粉橘色</option>
+                      " data-product='{"prodid":"PROD52598","sku":"SKU3184"}' data-color="#ec735e">Morange 明亮橙红色</option>
+                      " data-product='{"prodid":"PROD52598","sku":"SKU57017"}' data-color="#ea5836">Neon Orange</option>
+                      " data-product='{"prodid":"PROD52598","sku":"SKU57013"}' data-color="#dc3d88">Full Fuschia</option>
+                      " data-product='{"prodid":"PROD52598","sku":"SKU3183"}' data-color="#dc4f73">Impassioned</option>
+                      " data-product='{"prodid":"PROD52598","sku":"SKU3174"}' data-color="#713c4d">Dark Side</option>
+                      " data-product='{"prodid":"PROD52598","sku":"SKU3171"}' data-color="#bc617d">Craving</option>
+                      " data-product='{"prodid":"PROD52598","sku":"SKU3186"}' data-color="#c9548a">Girl About Town</option>
+                      " data-product='{"prodid":"PROD52598","sku":"SKU3193"}' data-color="#d87a92">Chatterbox</option>
+                      " data-product='{"prodid":"PROD52598","sku":"SKU57015"}' data-color="#df3a5f">Fusion Pink</option>
+                      " data-product='{"prodid":"PROD52598","sku":"SKU10759"}' data-color="#e887c6">Saint Germain</option>
+                      " data-product='{"prodid":"PROD52598","sku":"SKU3168"}' data-color="#b8787a">Cosmo</option>
+                      " data-product='{"prodid":"PROD52598","sku":"SKU3178"}' data-color="#c49084">Half 'n Half</option>
+                      " data-product='{"prodid":"PROD52598","sku":"SKU3187"}' data-color="#b48081">Fast Play</option>
+                      " data-product='{"prodid":"PROD52598","sku":"SKU57014"}' data-color="#d83a9f">Show Orchid</option>
+                      " data-product='{"prodid":"PROD52598","sku":"SKU3189"}' data-color="#cca099">Blankety</option>
+                      " data-product='{"prodid":"PROD52598","sku":"SKU3195"}' data-color="#ad629e">Up The Amp</option>
+                      " data-product='{"prodid":"PROD52598","sku":"SKU57018"}' data-color="#81368f">Violetta</option>
+                      " data-product='{"prodid":"PROD52598","sku":"SKU72526"}' data-color="#ff9755">Nifty Neon</option>
+                  </select>
+                </div>
+              </div>
+      

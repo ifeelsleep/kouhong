@@ -1,0 +1,24 @@
+﻿data-htmlcolor=#be5454   102
+
+data-htmlcolor=#5c231c   200
+
+data-htmlcolor=#721b27   201 浓郁浆果红
+
+data-htmlcolor=#b12523   301
+
+data-htmlcolor=#8b0d1a   400 经典阿玛尼红
+
+data-htmlcolor=#a2081c   403
+
+ data-htmlcolor=#c15b59  500
+
+data-htmlcolor=#87383a   501
+
+data-htmlcolor=#943f59   502
+
+data-htmlcolor=#bb464d   503
+
+data-htmlcolor=#bd0e56   506
+
+data-htmlcolor=#4e112e   600
+

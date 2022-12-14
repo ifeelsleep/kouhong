@@ -1,0 +1,405 @@
+{
+    "name": "Armani",
+    "series": [
+      {
+        "name": "[传奇红管]臻致丝绒哑光唇釉",
+        "lipsticks": [
+          {
+            "color": "#9F2E21",
+            "id": "400",
+            "name": "The Red"
+          },
+          {
+            "color": "#7F1D00",
+            "id": "405",
+            "name": "Sultan"
+          },
+          {
+            "color": "#A2190F",
+            "id": "400G",
+            "name": "奢金阿玛尼红"
+          },
+          {
+            "color": "#9F2E21",
+            "id": "400",
+            "name": "The Red金色限定版"
+          },
+          {
+            "color": "#88140C",
+            "id": "206",
+            "name": "陶土红棕"
+          },
+          {
+            "color": "#801F18",
+            "id": "415",
+            "name": "赤木红棕"
+          },
+          {
+            "color": "#B65C40",
+            "id": "103G",
+            "name": "琉金奶茶橘"
+          },
+          {
+            "color": "#A61F1F",
+            "id": "416G",
+            "name": "金闪红棕"
+          },
+          {
+            "color": "#BB2029",
+            "id": "417G",
+            "name": "金闪樱桃红"
+          },
+          {
+            "color": "#A62125",
+            "id": "418G",
+            "name": "金闪蔷薇粉"
+          },
+          {
+            "color": "#AD5862",
+            "id": "526G",
+            "name": "蓝闪紫玫瑰"
+          },
+          {
+            "color": "#842B26",
+            "id": "602G",
+            "name": "金闪浆果紫"
+          },
+          {
+            "color": "#7B3039",
+            "id": "207",
+            "name": "NATURE&#41;"
+          },
+          {
+            "color": "#A8584C",
+            "id": "522",
+            "name": "Desert"
+          },
+          {
+            "color": "#7C363B",
+            "id": "524",
+            "name": "玫瑰木棕"
+          },
+          {
+            "color": "#E62026",
+            "id": "402",
+            "name": "Chinese Lacquer"
+          },
+          {
+            "color": "#C61B16",
+            "id": "401",
+            "name": "The Tibetan Orange"
+          },
+          {
+            "color": "#7A2C25",
+            "id": "200",
+            "name": "Terra"
+          },
+          {
+            "color": "#660500",
+            "id": "201",
+            "name": "Dark Velvet"
+          },
+          {
+            "color": "#9B5B55",
+            "id": "202",
+            "name": "Dolci"
+          },
+          {
+            "color": "#8B3E3D",
+            "id": "204",
+            "name": "nuda"
+          },
+          {
+            "color": "#DB3218",
+            "id": "300",
+            "name": "Flesh"
+          },
+          {
+            "color": "#BF3118",
+            "id": "302",
+            "name": "火热橙"
+          },
+          {
+            "color": "#F2643E",
+            "id": "304",
+            "name": "topaze"
+          },
+          {
+            "color": "#E33F2D",
+            "id": "305",
+            "name": "tangerine"
+          },
+          {
+            "color": "#B75B5C",
+            "id": "500",
+            "name": "Blush"
+          },
+          {
+            "color": "#9C4348",
+            "id": "501",
+            "name": "Casual Pink"
+          },
+          {
+            "color": "#870D2F",
+            "id": "502",
+            "name": "Art Deco"
+          },
+          {
+            "color": "#B4002F",
+            "id": "503",
+            "name": "Red Fuchsia"
+          },
+          {
+            "color": "#541927",
+            "id": "507",
+            "name": "Boudoir"
+          },
+          {
+            "color": "#BD445C",
+            "id": "508",
+            "name": "Pearly Nude"
+          },
+          {
+            "color": "#871F23",
+            "id": "-1",
+            "name": "Ruby Nude"
+          },
+          {
+            "color": "#891D18",
+            "id": "513",
+            "name": "rose"
+          },
+          {
+            "color": "#C9385B",
+            "id": "519",
+            "name": "夺目粉"
+          },
+          {
+            "color": "#EC425A",
+            "id": "521",
+            "name": "peony"
+          }
+        ]
+      },
+      {
+        "name": "[小胖丁]染唇液",
+        "lipsticks": [
+          {
+            "color": "#7D000C",
+            "id": "402",
+            "name": "fil rouge"
+          },
+          {
+            "color": "#82001B",
+            "id": "401",
+            "name": "none"
+          },
+          {
+            "color": "#850009",
+            "id": "400",
+            "name": "four hundred"
+          },
+          {
+            "color": "#A90811",
+            "id": "301",
+            "name": "heat"
+          },
+          {
+            "color": "#A3000C",
+            "id": "302",
+            "name": "hollywood"
+          },
+          {
+            "color": "#A8272D",
+            "id": "504",
+            "name": "nuda"
+          },
+          {
+            "color": "#A8303A",
+            "id": "506",
+            "name": "fusion"
+          },
+          {
+            "color": "#6C162E",
+            "id": "606",
+            "name": "暗黑紫红"
+          },
+          {
+            "color": "#C5000D",
+            "id": "300",
+            "name": "none"
+          },
+          {
+            "color": "#5E0F14",
+            "id": "403",
+            "name": "none"
+          },
+          {
+            "color": "#AF2128",
+            "id": "503",
+            "name": "none"
+          },
+          {
+            "color": "#A73639",
+            "id": "505",
+            "name": "none"
+          },
+          {
+            "color": "#8A263C",
+            "id": "507",
+            "name": "none"
+          },
+          {
+            "color": "#681E2D",
+            "id": "600",
+            "name": "none"
+          },
+          {
+            "color": "#480916",
+            "id": "602",
+            "name": "none"
+          },
+          {
+            "color": "#9C002F",
+            "id": "500",
+            "name": "maharajah"
+          }
+        ]
+      },
+      {
+        "name": "[黑管]漆光迷情唇釉",
+        "lipsticks": [
+          {
+            "color": "#6F2120",
+            "id": "200",
+            "name": "none"
+          },
+          {
+            "color": "#A9332A",
+            "id": "300",
+            "name": "none"
+          },
+          {
+            "color": "#A9332A",
+            "id": "302",
+            "name": "none"
+          },
+          {
+            "color": "#7D040A",
+            "id": "400",
+            "name": "none"
+          },
+          {
+            "color": "#94030E",
+            "id": "401",
+            "name": "none"
+          },
+          {
+            "color": "#AF090F",
+            "id": "402",
+            "name": "none"
+          },
+          {
+            "color": "#AF2C43",
+            "id": "500",
+            "name": "none"
+          },
+          {
+            "color": "#B93A54",
+            "id": "501",
+            "name": "none"
+          },
+          {
+            "color": "#BE5F69",
+            "id": "502",
+            "name": "none"
+          },
+          {
+            "color": "#8B4A56",
+            "id": "503",
+            "name": "none"
+          },
+          {
+            "color": "#A24266",
+            "id": "504",
+            "name": "none"
+          },
+          {
+            "color": "#9D002D",
+            "id": "505",
+            "name": "none"
+          },
+          {
+            "color": "#8E0227",
+            "id": "506",
+            "name": "none"
+          }
+        ]
+      },
+      {
+        "name": "挚爱哑光唇膏",
+        "lipsticks": [
+          {
+            "color": "#BE5454",
+            "id": "102",
+            "name": "none"
+          },
+          {
+            "color": "#5C231C",
+            "id": "200",
+            "name": "none"
+          },
+          {
+            "color": "#721B27",
+            "id": "201",
+            "name": "浓郁浆果红"
+          },
+          {
+            "color": "#B12523",
+            "id": "301",
+            "name": "none"
+          },
+          {
+            "color": "#8B0D1A",
+            "id": "400",
+            "name": "经典阿玛尼红"
+          },
+          {
+            "color": "#A2081C",
+            "id": "403",
+            "name": "none"
+          },
+          {
+            "color": "#C15B59",
+            "id": "500",
+            "name": "none"
+          },
+          {
+            "color": "#87383A",
+            "id": "501",
+            "name": "none"
+          },
+          {
+            "color": "#943F59",
+            "id": "502",
+            "name": "none"
+          },
+          {
+            "color": "#BB464D",
+            "id": "503",
+            "name": "none"
+          },
+          {
+            "color": "#BD0E56",
+            "id": "506",
+            "name": "none"
+          },
+          {
+            "color": "#4E112E",
+            "id": "600",
+            "name": "none"
+          }
+        ]
+      }
+    ]
+  }

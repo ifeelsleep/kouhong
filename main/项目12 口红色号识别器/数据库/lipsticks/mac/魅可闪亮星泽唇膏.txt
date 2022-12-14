@@ -1,0 +1,30 @@
+<div class="shade-picker-dropdown hidden">
+                <div class="shade-picker-dropdown__colors-mask">
+                  <select id="js-shade-picker-dropdown--product-full" class="shade-picker-dropdown__colors no-js">
+                      " data-product='{"prodid":"PROD52595","sku":"SKU2411"}' data-color="#cc5a3b">CB 96 »À”„ºß…´</option>
+                      " data-product='{"prodid":"PROD52595","sku":"SKU2595"}' data-color="#aa5b51">Fresh Moroccan</option>
+                      " data-product='{"prodid":"PROD52595","sku":"SKU72533"}' data-color="#f4c58e">Spoiled Fabulous</option>
+                      " data-product='{"prodid":"PROD52595","sku":"SKU2463"}' data-color="#903a59">New York Apple</option>
+                      " data-product='{"prodid":"PROD52595","sku":"SKU11007"}' data-color="#dc7b7d">Costa Chic</option>
+                      " data-product='{"prodid":"PROD52595","sku":"SKU2488"}' data-color="#F16974">Skew</option>
+                      " data-product='{"prodid":"PROD52595","sku":"SKU2407"}' data-color="#c48950">Bronze Shimmer</option>
+                      " data-product='{"prodid":"PROD52595","sku":"SKU72541"}' data-color="#fd428b">Pink, You Think?</option>
+                      " data-product='{"prodid":"PROD52595","sku":"SKU2593"}' data-color="#ad7481">Plum Dandy</option>
+                      " data-product='{"prodid":"PROD52595","sku":"SKU2511"}' data-color="#d9a1a7">Angel</option>
+                      " data-product='{"prodid":"PROD52595","sku":"SKU72548"}' data-color="#a1e7da">Soft Hint</option>
+                      " data-product='{"prodid":"PROD52595","sku":"SKU2442"}' data-color="#e7c7af">Gel</option>
+                      " data-product='{"prodid":"PROD52595","sku":"SKU72542"}' data-color="#6e5e70">On and On</option>
+                      " data-product='{"prodid":"PROD52595","sku":"SKU72543"}' data-color="#7d4fac">Model Behaviour</option>
+                      " data-product='{"prodid":"PROD52595","sku":"SKU72540"}' data-color="#2c5aa2">Designer Blue</option>
+                      " data-product='{"prodid":"PROD52595","sku":"SKU2465"}' data-color="#b07d69">&quot;O&quot;</option>
+                      " data-product='{"prodid":"PROD52595","sku":"SKU72544"}' data-color="#f1afd9">Pick Me, Pick Me!</option>
+                      " data-product='{"prodid":"PROD52595","sku":"SKU2464"}' data-color="#915476">Odyssey</option>
+                      " data-product='{"prodid":"PROD52595","sku":"SKU2570"}' data-color="#ba8096">Creme de la Femme</option>
+                      " data-product='{"prodid":"PROD52595","sku":"SKU2573"}' data-color="#cb969c">Fabby</option>
+                      " data-product='{"prodid":"PROD52595","sku":"SKU2539"}' data-color="#cc7c92">Bombshell</option>
+                      " data-product='{"prodid":"PROD52595","sku":"SKU72527"}' data-color="#cdc449">Wild Extract</option>
+                      " data-product='{"prodid":"PROD52595","sku":"SKU72535"}' data-color="#dcdcdc">Time To Shine</option>
+                      " data-product='{"prodid":"PROD52595","sku":"SKU72538"}' data-color="#b6aa8a">No Interruptions</option>
+                  </select>
+                </div>
+              </div>
